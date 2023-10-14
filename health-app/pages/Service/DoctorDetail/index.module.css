@@ -1,0 +1,1161 @@
+.container2 {
+    position: absolute;
+    top: 0.15px;
+    left: 0px;
+    background-color: rgba(255, 255, 255, 0.1);
+    width: 1440px;
+    height: 117.85px;
+}
+.home {
+    position: relative;
+    line-height: 18px;
+}
+.vectorIcon4 {
+    position: relative;
+    width: 13.67px;
+    height: 7.83px;
+}
+.linkList {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 10px;
+}
+.vectorIcon5 {
+    position: relative;
+    width: 13.07px;
+    height: 7.23px;
+}
+.sections {
+    position: absolute;
+    top: calc(50% - 9px);
+    left: calc(50% - 219.17px);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 33px;
+}
+.masterPrimaryButton1 {
+    border-radius: 30px;
+    background-color: #000;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-end;
+    padding: 18px 24px;
+}
+.userIcon1 {
+    position: relative;
+    width: 39px;
+    height: 34px;
+}
+.buttonsSet {
+    position: absolute;
+    top: 32px;
+    left: 1118px;
+    width: 300px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-end;
+    padding: 0px 0px 0px 25px;
+    box-sizing: border-box;
+    gap: 24px;
+    font-size: 16px;
+    color: #fff;
+}
+.group5Copy2 {
+    position: relative;
+    width: 34.35px;
+    height: 34.35px;
+}
+.health {
+    position: relative;
+    letter-spacing: -0.03em;
+    line-height: 25px;
+    font-weight: 800;
+    display: flex;
+    align-items: center;
+    width: 96px;
+    height: 42px;
+    flex-shrink: 0;
+}
+.chain {
+    position: relative;
+    letter-spacing: -0.03em;
+    line-height: 25px;
+    font-weight: 800;
+    color: rgba(0, 0, 0, 0.5);
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 88px;
+    height: 42px;
+    flex-shrink: 0;
+    margin-left: -10px;
+}
+.healthParent {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+}
+.group5CopyParent {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 11px;
+}
+.pro {
+    position: relative;
+    font-size: 20px;
+    letter-spacing: -0.03em;
+    line-height: 25px;
+    font-weight: 800;
+    display: inline-block;
+    width: 35px;
+    height: 42px;
+    flex-shrink: 0;
+}
+.frameParent {
+    position: absolute;
+    top: 42px;
+    left: 110px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    text-align: left;
+    font-size: 30px;
+    color: #000;
+    font-family: Nunito;
+}
+.headersV5 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1440px;
+    height: 118px;
+    font-size: 18px;
+    color: #5d5a88;
+    font-family: 'DM Sans';
+}
+.ourCoreFeatures1 {
+    position: absolute;
+    top: 150px;
+    left: 110px;
+    font-size: 40px;
+    letter-spacing: -0.03em;
+    line-height: 68px;
+    font-weight: 800;
+}
+.vectorIcon6 {
+    position: absolute;
+    height: 0.61%;
+    width: 1.88%;
+    top: 28.62%;
+    right: 54.24%;
+    bottom: 70.78%;
+    left: 43.89%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.istockphoto1330046035612x612Icon {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 235px;
+    height: 304px;
+    object-fit: cover;
+}
+.istockphoto1330046035612x612Wrapper {
+    position: absolute;
+    margin: 0 !important;
+    top: -0.5px;
+    left: 0px;
+    border-radius: 40px;
+    width: 241px;
+    height: 304px;
+    overflow: hidden;
+    flex-shrink: 0;
+    z-index: 0;
+}
+.buttonPrimaryIcon3 {
+    align-self: stretch;
+    flex: 1;
+    border-radius: 24px;
+    background-color: #ececec;
+    overflow: hidden;
+    z-index: 0;
+}
+.vectorIcon7 {
+    position: relative;
+    width: 15px;
+    height: 15.5px;
+}
+.socialIcons2 {
+    position: relative;
+    width: 15px;
+    height: 15.5px;
+    overflow: hidden;
+    flex-shrink: 0;
+}
+.socialIcons3 {
+    position: relative;
+    width: 15px;
+    height: 14.52px;
+    overflow: hidden;
+    flex-shrink: 0;
+}
+.vectorParent {
+    margin: 0 !important;
+    position: absolute;
+    top: 7px;
+    left: 11px;
+    width: 111px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 25px;
+    z-index: 1;
+}
+.buttonPrimaryIconParent {
+    margin: 0 !important;
+    position: absolute;
+    top: 290px;
+    left: 53px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    width: 135px;
+    height: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 10px;
+    z-index: 1;
+}
+.frameDiv {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 10px;
+    top: -160px;
+    position: relative;
+    gap: 10px;
+}
+.oslerSAi {
+    position: relative;
+    letter-spacing: -0.02em;
+    font-weight: 800;
+    display: inline-block;
+    width: 242px;
+}
+.pricing {
+    position: relative;
+    font-size: 16px;
+    letter-spacing: -0.02em;
+}
+.frameChild {
+    position: absolute;
+    top: 2.24px;
+    left: 2.52px;
+    border-radius: 1px;
+    width: 18px;
+    height: 18px;
+}
+.div {
+    position: absolute;
+    top: 3px;
+    left: 19.54px;
+    letter-spacing: 0.01em;
+    line-height: 12px;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    width: 48.92px;
+}
+.starParent {
+    position: relative;
+    width: 44px;
+    height: 18px;
+}
+.rating {
+    position: relative;
+    font-size: 12px;
+    line-height: 22px;
+    color: #778293;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 50px;
+}
+.heightText {
+    position: absolute;
+    top: calc(50% - 24.5px);
+    left: calc(50% - 25.25px);
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+.heightCard {
+    position: relative;
+    border-radius: 16px;
+    background-color: #fff;
+    box-shadow: 0px 10px 40px rgba(29, 22, 23, 0.07);
+    width: 103.7px;
+    height: 65px;
+    overflow: hidden;
+    flex-shrink: 0;
+    text-align: left;
+}
+.y {
+    position: relative;
+    letter-spacing: 0.01em;
+    line-height: 12px;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 48.92px;
+}
+.experience {
+    position: relative;
+    font-size: 12px;
+    line-height: 22px;
+    color: #778293;
+}
+.heightText1 {
+    position: absolute;
+    top: calc(50% - 21.5px);
+    left: calc(50% - 32.55px);
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+.heightCard1 {
+    position: relative;
+    border-radius: 16px;
+    background-color: #fff;
+    box-shadow: 0px 10px 40px rgba(29, 22, 23, 0.07);
+    width: 103.7px;
+    height: 65px;
+    overflow: hidden;
+    flex-shrink: 0;
+}
+.patients {
+    position: relative;
+    font-size: 12px;
+    line-height: 22px;
+    color: #778293;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 50px;
+}
+.heightText2 {
+    position: absolute;
+    top: calc(50% - 21.5px);
+    left: calc(50% - 24.85px);
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+.heightCardParent {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 5px;
+    font-size: 14px;
+    color: #303030;
+    font-family: Poppins;
+}
+.oslerSAiDrivenTelehealthBParent {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 10px;
+}
+.frameWrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+}
+.sheIsHighly {
+    margin: 0;
+}
+.drLindaWalkerContainer {
+    align-self: stretch;
+    position: relative;
+    font-size: 15px;
+    color: rgba(0, 0, 0, 0.5);
+    text-align: left;
+}
+.span {
+    font-weight: 800;
+}
+.eth {
+    font-family: Nunito;
+    background: linear-gradient(90deg, #00e8f7, rgba(190, 251, 255, 0.69));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.span1 {
+    font-weight: 800;
+    font-family: Nunito;
+}
+.consult1 {
+    font-family: Nunito;
+}
+.consult {
+    color: #fff;
+}
+.ethConsult {
+    margin: 0;
+    font-size: 14px;
+}
+.text7 {
+    position: relative;
+    letter-spacing: -0.02em;
+}
+.content {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+.buttonPrimaryIcon4 {
+    border-radius: 24px;
+    background-color: #303030;
+    width: 245px;
+    height: 64px;
+    overflow: hidden;
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 16px 32px;
+    box-sizing: border-box;
+    font-size: 18px;
+    color: #fff;
+}
+.frameParent2 {
+    width: 490px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 24px;
+}
+.frameItem {
+    position: relative;
+    border-right: 1px solid #000;
+    box-sizing: border-box;
+    width: 1px;
+    height: 218px;
+}
+.workingInformation {
+    position: absolute;
+    top: 1px;
+    left: 0px;
+    line-height: 13px;
+    font-weight: 600;
+}
+.workingInformationWrapper {
+    position: relative;
+    width: 335px;
+    height: 16px;
+}
+.iconCalendar1 {
+    position: relative;
+    width: 18px;
+    height: 18px;
+}
+.mondayFriday1 {
+    position: relative;
+    line-height: 22px;
+}
+.iconCalendarParent {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+}
+.jalanLagoonSelatan1 {
+    position: relative;
+    line-height: 22px;
+    display: inline-block;
+    width: 313px;
+    flex-shrink: 0;
+}
+.iconLocationParent {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 8px;
+    color: #3f8efc;
+}
+.frameParent4 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 12px;
+    font-size: 12px;
+    color: #344154;
+}
+.frameParent3 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 16px;
+    text-align: left;
+    font-size: 16px;
+    color: #101828;
+    font-family: Poppins;
+}
+.frameParent1 {
+    display: flex;
+    margin-left: 200px;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 24px;
+}
+.frameGroup {
+    align-self: stretch;
+    flex: 1;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 34px;
+}
+.logoPillow4 {
+    position: absolute;
+    height: 38.89%;
+    width: 27.78%;
+    top: 36.11%;
+    right: 30.56%;
+    bottom: 25%;
+    left: 41.67%;
+    border-radius: 9px;
+    background-color: #e3e4e3;
+    transform:  rotate(90deg);
+    transform-origin: 0 0;
+}
+.logoPillow5 {
+    position: absolute;
+    height: 38.89%;
+    top: 36.11%;
+    right: -18px;
+    bottom: 25%;
+    border-radius: 9px;
+    background-color: #e3e4e3;
+    width: 20px;
+    transform:  rotate(90deg);
+    transform-origin: 0 0;
+}
+.logoPillow6 {
+    position: absolute;
+    bottom: 2px;
+    left: calc(50% - 10px);
+    border-radius: 9px;
+    background-color: #e3e4e3;
+    width: 20px;
+    height: 28px;
+}
+.logoPillow7 {
+    position: absolute;
+    top: 2px;
+    left: calc(50% - 10px);
+    border-radius: 9px;
+    background-color: #e3e4e3;
+    width: 20px;
+    height: 28px;
+}
+.logomark {
+    position: absolute;
+    top: calc(50% - 35.5px);
+    left: calc(50% - 36px);
+    width: 72px;
+    height: 72px;
+}
+.frame1 {
+    align-self: stretch;
+    flex: 1;
+    position: relative;
+    border-radius: 40px;
+    background-color: #fff;
+    border: 1px solid #c5c8c6;
+    overflow: hidden;
+}
+.jun {
+    position: relative;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    font-weight: 900;
+}
+.oslerPillow1 {
+    position: relative;
+    border-radius: 1.5px;
+    background-color: #c5c8c6;
+    width: 4px;
+    height: 4px;
+    overflow: hidden;
+    flex-shrink: 0;
+}
+.frame3 {
+    align-self: stretch;
+    display: none;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 12px;
+    text-align: left;
+    color: #647067;
+}
+.oslerSAi1 {
+    align-self: stretch;
+    position: relative;
+    font-size: 20px;
+    letter-spacing: -0.02em;
+    font-weight: 800;
+}
+.tag {
+    border-radius: 15px;
+    border: 1px solid #647067;
+    box-sizing: border-box;
+    height: 40px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 10px 16px;
+}
+.pricing2 {
+    position: relative;
+    letter-spacing: -0.01em;
+}
+.tag1 {
+    border-radius: 12px;
+    border: 1px solid #647067;
+    box-sizing: border-box;
+    height: 40px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 8px 12px;
+    font-size: 14px;
+}
+.frame4 {
+    display: none;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 8px;
+    font-size: 16px;
+}
+.frame2 {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 16px;
+}
+.text8 {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-end;
+}
+.content1 {
+    align-self: stretch;
+    flex: 1;
+    display: none;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 24px;
+    font-size: 12px;
+}
+.frame {
+    position: absolute;
+    top: 239px;
+    left: 115px;
+    border-radius: 48px;
+    background-color: #f5f5f5;
+    width: 1195px;
+    height: 397px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 0px 16px;
+    box-sizing: border-box;
+    gap: 24px;
+    font-size: 30px;
+}
+.reviews {
+    position: absolute;
+    top: 1px;
+    left: 0px;
+    line-height: 13px;
+}
+.seeAll {
+    position: absolute;
+    top: calc(50% - 8px);
+    right: 0px;
+    font-size: 12px;
+    line-height: 16px;
+    font-weight: 600;
+    color: #3f8efc;
+    text-align: right;
+}
+.reviewsParent {
+    position: relative;
+    width: 670px;
+    height: 16px;
+}
+.iconEdit2 {
+    position: relative;
+    width: 24px;
+    height: 24px;
+    display: none;
+}
+.rectangle2Copy71 {
+    position: absolute;
+    height: 100%;
+    width: 13.17%;
+    top: 0%;
+    right: 86.83%;
+    bottom: 0%;
+    left: 0%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+}
+.samantha {
+    position: absolute;
+    top: 16px;
+    left: 54px;
+    letter-spacing: 0.01em;
+    line-height: 12px;
+    font-weight: 600;
+}
+.div2 {
+    position: absolute;
+    top: 1px;
+    left: calc(50% + 2px);
+    line-height: 16px;
+}
+.starGroup {
+    position: absolute;
+    top: 12px;
+    right: 0px;
+    width: 40px;
+    height: 18px;
+    font-size: 12px;
+    color: #101828;
+}
+.rectangle2Copy7Parent {
+    flex: 1;
+    position: relative;
+    height: 42px;
+}
+.iconEditParent {
+    border-radius: 15px;
+    width: 335px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 16px;
+}
+.drJennieThorn2 {
+    align-self: stretch;
+    position: relative;
+    font-size: 12px;
+    line-height: 22px;
+    font-family: Nunito;
+    color: #344154;
+    display: inline-block;
+    height: 44px;
+    flex-shrink: 0;
+}
+.frameParent7 {
+    align-self: stretch;
+    height: 98px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 12px;
+}
+.typedefaultComponentavatarIcon {
+    position: absolute;
+    height: 100%;
+    width: 12.54%;
+    top: 0%;
+    right: 87.16%;
+    bottom: 0%;
+    left: 0.3%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.div3 {
+    position: absolute;
+    top: 1px;
+    left: calc(50% + 7px);
+    line-height: 16px;
+}
+.starContainer {
+    position: absolute;
+    top: 12px;
+    right: 0px;
+    width: 30px;
+    height: 18px;
+    font-size: 12px;
+    color: #101828;
+}
+.drJennieThorn3 {
+    position: relative;
+    font-size: 12px;
+    line-height: 22px;
+    font-family: Nunito;
+    color: #344154;
+    display: inline-block;
+    width: 670px;
+}
+.frameParent8 {
+    width: 670px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 12px;
+}
+.frameParent6 {
+    align-self: stretch;
+    height: 208px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 12px;
+    font-size: 14px;
+    color: #1a1a1a;
+    font-family: Poppins;
+}
+.frameParent5 {
+    position: absolute;
+    top: 702px;
+    left: 140px;
+    width: 670px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 16px;
+    text-align: left;
+    color: #101828;
+}
+.contentChild {
+    position: relative;
+    width: 589.09px;
+    height: 419.01px;
+    object-fit: cover;
+}
+.tag2 {
+    border-radius: 18px;
+    border: 1px solid #303030;
+    box-sizing: border-box;
+    height: 48px;
+    overflow: hidden;
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 16px 24px;
+    text-align: center;
+}
+.bookAFree1 {
+    align-self: stretch;
+    position: relative;
+    font-size: 60px;
+    letter-spacing: -0.03em;
+    line-height: 68px;
+    font-weight: 800;
+}
+.text10 {
+    position: relative;
+    letter-spacing: -0.02em;
+    font-weight: 800;
+}
+.solidArrowRightSm1 {
+    position: relative;
+    width: 24px;
+    height: 24px;
+}
+.content3 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 16px;
+}
+.buttonPrimaryIcon5 {
+    border-radius: 24px;
+    background-color: #303030;
+    height: 64px;
+    overflow: hidden;
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 16px 32px;
+    box-sizing: border-box;
+    font-size: 18px;
+    color: #fff;
+}
+.text9 {
+    width: 448px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 32px;
+}
+.content2 {
+    width: 1107px;
+    height: 312px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 55px;
+}
+.container3 {
+    border-radius: 30px;
+    background: linear-gradient(94.43deg, #d2c6e6, #e8d3e7 28.82%, #b3daf2 73.91%, #d8e8f3);
+    width: 1262px;
+    height: 471px;
+    overflow: hidden;
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 80px 100px 80px 84px;
+    box-sizing: border-box;
+}
+.frameParent10 {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+.about {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-size: 20px;
+    color: #000;
+    text-align: center;
+}
+.aboutUs {
+    position: absolute;
+    top: 50px;
+    left: 0px;
+    font-weight: 500;
+}
+.privacyPolicy {
+    position: absolute;
+    top: 93px;
+    left: 0px;
+    font-weight: 500;
+}
+.termsOfService1 {
+    position: absolute;
+    top: 136px;
+    left: 0px;
+    font-weight: 500;
+}
+.aboutParent {
+    position: absolute;
+    top: 0px;
+    left: 419px;
+    width: 125px;
+    height: 159px;
+}
+.findADoctor1 {
+    position: absolute;
+    top: 50px;
+    left: 7px;
+    font-weight: 500;
+}
+.bookAnAppointment1 {
+    position: absolute;
+    top: 93px;
+    left: 7px;
+    font-weight: 500;
+}
+.telehealthServices {
+    position: absolute;
+    top: 136px;
+    left: 7px;
+    font-weight: 500;
+}
+.medicationOrdering {
+    position: absolute;
+    top: 179px;
+    left: 7px;
+    font-weight: 500;
+}
+.quickLinksParent {
+    position: absolute;
+    top: 0px;
+    left: 676px;
+    width: 172px;
+    height: 202px;
+}
+.aCuttingEdgeHealthcare1 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-weight: 500;
+    display: inline-block;
+    width: 288px;
+}
+.aCuttingEdgeHealthcareTechWrapper {
+    position: absolute;
+    top: 50px;
+    left: 0px;
+    width: 288px;
+    height: 115px;
+}
+.contact1 {
+    position: absolute;
+    top: 0px;
+    left: 0.2px;
+    font-size: 20px;
+    color: #000;
+    text-align: center;
+}
+.div4 {
+    position: absolute;
+    top: 50px;
+    left: 0.2px;
+    font-weight: 500;
+}
+.healthchainprogmailcom {
+    position: absolute;
+    top: 93px;
+    left: 0.2px;
+    font-weight: 500;
+}
+.youtubeIcon1 {
+    position: relative;
+    width: 25px;
+    height: 25px;
+    overflow: hidden;
+    flex-shrink: 0;
+}
+.youtubeParent {
+    position: absolute;
+    top: 136px;
+    left: 0px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+}
+.contactParent {
+    position: absolute;
+    top: 0px;
+    left: 932.8px;
+    width: 214.2px;
+    height: 161px;
+}
+.footer {
+    position: relative;
+    width: 1147px;
+    height: 202px;
+    margin-top: -53px;
+    font-size: 15px;
+    color: rgba(0, 0, 0, 0.5);
+    font-family: Poppins;
+}
+.frameParent9 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    font-size: 30px;
+    color: #000;
+}
+.copyright20231 {
+    position: relative;
+    font-size: 20px;
+    font-weight: 500;
+    font-family: Poppins;
+    color: rgba(0, 0, 0, 0.5);
+}
+.containerParent {
+    position: absolute;
+    top: 1044px;
+    left: 89px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 49px;
+    text-align: left;
+    color: #303030;
+}
+.doctorDetails {
+    position: relative;
+    background-color: #fff;
+    width: 100%;
+    height: 1906px;
+    overflow: hidden;
+    text-align: center;
+    font-size: 16px;
+    color: #2f3c33;
+    font-family: Nunito;
+}
+

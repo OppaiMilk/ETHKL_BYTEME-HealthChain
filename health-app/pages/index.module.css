@@ -1,0 +1,1003 @@
+.container5 {
+    position: absolute;
+    top: 0.15px;
+    left: 0px;
+    background-color: rgba(255, 255, 255, 0.1);
+    width: 1440px;
+    height: 117.85px;
+}
+.services {
+    position: relative;
+    line-height: 18px;
+}
+.vectorIcon2 {
+    position: relative;
+    width: 13.07px;
+    height: 7.23px;
+}
+.linkList {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 10px;
+}
+.sections {
+    position: absolute;
+    top: calc(50% - 9px);
+    left: calc(50% - 217.17px);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 33px;
+}
+.masterPrimaryButton1 {
+    border-radius: 30px;
+    background-color: #000;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-end;
+    padding: 18px 24px;
+}
+.userIcon1 {
+    position: relative;
+    width: 39px;
+    height: 34px;
+}
+.buttonsSet {
+    position: absolute;
+    top: 32px;
+    left: 1118px;
+    width: 300px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-end;
+    padding: 0px 0px 0px 25px;
+    box-sizing: border-box;
+    gap: 24px;
+    font-size: 16px;
+    color: #fff;
+}
+.group5Copy2 {
+    position: relative;
+    width: 34.35px;
+    height: 34.35px;
+}
+.health {
+    position: relative;
+    letter-spacing: -0.03em;
+    line-height: 25px;
+    font-weight: 800;
+    display: flex;
+    align-items: center;
+    width: 96px;
+    height: 42px;
+    flex-shrink: 0;
+}
+.chain {
+    position: relative;
+    letter-spacing: -0.03em;
+    line-height: 25px;
+    font-weight: 800;
+    color: rgba(0, 0, 0, 0.5);
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 88px;
+    height: 42px;
+    flex-shrink: 0;
+    margin-left: -10px;
+}
+.healthParent {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+}
+.group5CopyParent {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 11px;
+}
+.pro {
+    position: relative;
+    font-size: 20px;
+    letter-spacing: -0.03em;
+    line-height: 25px;
+    font-weight: 800;
+    display: inline-block;
+    width: 35px;
+    height: 42px;
+    flex-shrink: 0;
+}
+.frameParent {
+    position: absolute;
+    top: 42px;
+    left: 110px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    text-align: left;
+    font-size: 30px;
+    color: #000;
+    font-family: Nunito;
+}
+.headersV5 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1440px;
+    height: 118px;
+    text-align: center;
+    font-size: 18px;
+    color: #5d5a88;
+    font-family: 'DM Sans';
+}
+.ourCoreFeatures1 {
+    position: relative;
+    letter-spacing: -0.03em;
+    line-height: 68px;
+    font-weight: 800;
+}
+.pricing {
+    position: relative;
+    letter-spacing: -0.02em;
+}
+.tag {
+    border-radius: 18px;
+    border: 1px solid #647067;
+    box-sizing: border-box;
+    height: 48px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 16px 24px;
+}
+.expandRightIcon1 {
+    position: relative;
+    width: 24px;
+    height: 24px;
+}
+.nextStepParent {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 5px;
+    font-size: 18px;
+    color: #0b51b9;
+    font-family: 'DM Sans';
+}
+.tagParent {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 40px;
+    text-align: center;
+}
+.intelligentHealthMetrics1 {
+    align-self: stretch;
+    position: relative;
+    letter-spacing: -0.03em;
+    line-height: 56px;
+    font-weight: 800;
+}
+.ourPlatformEmploys1 {
+    align-self: stretch;
+    position: relative;
+    font-size: 18px;
+    letter-spacing: -0.01em;
+    line-height: 160%;
+    color: #647067;
+}
+.frame3 {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 24px;
+}
+.frame2 {
+    align-self: stretch;
+    height: 167px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 32px;
+    font-size: 48px;
+    color: #2f3c33;
+}
+.text5 {
+    position: relative;
+    letter-spacing: -0.02em;
+    font-weight: 800;
+}
+.content1 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+.buttonPrimaryIcon4 {
+    border-radius: 24px;
+    background-color: #303030;
+    height: 64px;
+    overflow: hidden;
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 16px 32px;
+    box-sizing: border-box;
+    font-size: 18px;
+    color: #fff;
+}
+.frame1 {
+    width: 469px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 40px;
+}
+.row {
+    width: 560px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+.image16Icon {
+    position: absolute;
+    top: 19px;
+    left: 79.5px;
+    width: 514px;
+    height: 364px;
+    object-fit: cover;
+}
+.deviceIcon {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 672.5px;
+    height: 390px;
+    object-fit: cover;
+}
+.image16Parent {
+    position: relative;
+    width: 672.5px;
+    height: 390px;
+}
+.content {
+    width: 1233px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    text-align: left;
+    font-size: 16px;
+    color: #647067;
+}
+.container6 {
+    position: absolute;
+    top: 993px;
+    left: 103px;
+    width: 1234px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 42px;
+    text-align: center;
+}
+.oslerLatestNews1 {
+    position: relative;
+    letter-spacing: -0.03em;
+    line-height: 56px;
+    font-weight: 800;
+}
+.buttonPrimaryIcon5 {
+    border-radius: 24px;
+    background-color: #fff;
+    height: 64px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 16px 32px;
+    box-sizing: border-box;
+    font-size: 18px;
+    color: #151212;
+}
+.content2 {
+    width: 1156px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: space-between;
+}
+.logoPillow16 {
+    position: absolute;
+    height: 38.89%;
+    width: 27.78%;
+    top: 36.11%;
+    right: 30.56%;
+    bottom: 25%;
+    left: 41.67%;
+    border-radius: 9px;
+    background-color: #e3e4e3;
+    transform:  rotate(90deg);
+    transform-origin: 0 0;
+}
+.logoPillow17 {
+    position: absolute;
+    height: 38.89%;
+    top: 36.11%;
+    right: -18px;
+    bottom: 25%;
+    border-radius: 9px;
+    background-color: #e3e4e3;
+    width: 20px;
+    transform:  rotate(90deg);
+    transform-origin: 0 0;
+}
+.logoPillow18 {
+    position: absolute;
+    bottom: 2px;
+    left: calc(50% - 10px);
+    border-radius: 9px;
+    background-color: #e3e4e3;
+    width: 20px;
+    height: 28px;
+}
+.logoPillow19 {
+    position: absolute;
+    top: 2px;
+    left: calc(50% - 10px);
+    border-radius: 9px;
+    background-color: #e3e4e3;
+    width: 20px;
+    height: 28px;
+}
+.logomark {
+    position: absolute;
+    top: calc(50% - 35.5px);
+    left: calc(50% - 36px);
+    width: 72px;
+    height: 72px;
+}
+.frame5 {
+    align-self: stretch;
+    flex: 1;
+    position: relative;
+    border-radius: 40px;
+    background-color: #fff;
+    border: 1px solid #c5c8c6;
+    overflow: hidden;
+}
+.jun {
+    position: relative;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    font-weight: 900;
+}
+.oslerPillow4 {
+    position: relative;
+    border-radius: 1.5px;
+    background-color: #c5c8c6;
+    width: 4px;
+    height: 4px;
+    overflow: hidden;
+    flex-shrink: 0;
+}
+.frame7 {
+    align-self: stretch;
+    display: none;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 12px;
+    text-align: left;
+    color: #647067;
+}
+.oslerSAi {
+    align-self: stretch;
+    position: relative;
+    font-size: 20px;
+    letter-spacing: -0.02em;
+    font-weight: 800;
+}
+.tag1 {
+    border-radius: 15px;
+    border: 1px solid #647067;
+    box-sizing: border-box;
+    height: 40px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 10px 16px;
+}
+.pricing2 {
+    position: relative;
+    letter-spacing: -0.01em;
+}
+.tag2 {
+    border-radius: 12px;
+    border: 1px solid #647067;
+    box-sizing: border-box;
+    height: 40px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 8px 12px;
+    font-size: 14px;
+}
+.frame8 {
+    display: none;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 8px;
+    font-size: 16px;
+}
+.frame6 {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 16px;
+}
+.text7 {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-end;
+}
+.content4 {
+    align-self: stretch;
+    flex: 1;
+    display: none;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 24px;
+}
+.frame4 {
+    border-radius: 48px;
+    background-color: #f5f5f5;
+    width: 274px;
+    height: 505px;
+    overflow: hidden;
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 16px 16px 50px;
+    box-sizing: border-box;
+    z-index: 0;
+}
+.download1Icon {
+    position: relative;
+    border-radius: 40px;
+    width: 243px;
+    height: 307px;
+    object-fit: cover;
+}
+.junParent {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 16px;
+}
+.oslerSAi1 {
+    position: relative;
+    font-size: 20px;
+    letter-spacing: -0.02em;
+    font-weight: 800;
+    color: #2f3c33;
+    text-align: center;
+    display: inline-block;
+    width: 242px;
+}
+.download1Parent {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 16px;
+}
+.frameWrapper {
+    position: absolute;
+    margin: 0 !important;
+    top: 18px;
+    left: 16px;
+    width: 243px;
+    height: 463px;
+    z-index: 1;
+    text-align: left;
+    color: #647067;
+}
+.frameGroup {
+    height: 505px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    position: relative;
+    gap: 10px;
+}
+.image17Icon {
+    position: relative;
+    border-radius: 40px;
+    width: 246.01px;
+    height: 307px;
+    object-fit: cover;
+}
+.groupDiv {
+    position: absolute;
+    margin: 0 !important;
+    top: 18px;
+    left: 16px;
+    width: 246.01px;
+    height: 463px;
+    z-index: 1;
+    text-align: left;
+    color: #647067;
+}
+.blockchainInHealthcareIndusIcon {
+    position: relative;
+    border-radius: 40px;
+    width: 238px;
+    height: 312px;
+    object-fit: cover;
+}
+.frameWrapper1 {
+    position: absolute;
+    margin: 0 !important;
+    top: 18px;
+    left: 16px;
+    width: 242px;
+    height: 468px;
+    z-index: 1;
+    text-align: left;
+    color: #647067;
+}
+.blockchainInHealthcare1Icon {
+    position: relative;
+    border-radius: 40px;
+    width: 239px;
+    height: 314px;
+    object-fit: cover;
+}
+.frameWrapper2 {
+    position: absolute;
+    margin: 0 !important;
+    top: 18px;
+    left: 16px;
+    width: 242px;
+    height: 443px;
+    z-index: 1;
+    text-align: left;
+    color: #647067;
+}
+.cards {
+    width: 1156px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 16px;
+    text-align: center;
+    font-size: 12px;
+    color: #2f3c33;
+}
+.progressBarAtom1 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 3px;
+    background-color: #2f3c33;
+    width: 136px;
+    height: 8px;
+    overflow: hidden;
+}
+.frame24 {
+    position: relative;
+    border-radius: 4.5px;
+    background-color: #f5f5f5;
+    width: 573px;
+    height: 8px;
+}
+.buttonIconFab {
+    position: relative;
+    border-radius: 30px;
+    width: 80px;
+    height: 80px;
+    overflow: hidden;
+    flex-shrink: 0;
+}
+.frame25 {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 8px;
+}
+.carouselSlider {
+    width: 1156px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+.container7 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 48px;
+}
+.latestNewsSection1 {
+    position: absolute;
+    top: 1605px;
+    left: 0px;
+    background-color: #000;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 128px 142px;
+    font-size: 48px;
+    color: #fff;
+}
+.contentChild {
+    position: relative;
+    width: 589.09px;
+    height: 419.01px;
+    object-fit: cover;
+}
+.tag9 {
+    border-radius: 18px;
+    border: 1px solid #303030;
+    box-sizing: border-box;
+    height: 48px;
+    overflow: hidden;
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 16px 24px;
+    text-align: center;
+}
+.bookAFree1 {
+    align-self: stretch;
+    position: relative;
+    font-size: 60px;
+    letter-spacing: -0.03em;
+    line-height: 68px;
+    font-weight: 800;
+}
+.text11 {
+    width: 448px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 32px;
+}
+.content8 {
+    width: 1107px;
+    height: 312px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 55px;
+}
+.container8 {
+    border-radius: 30px;
+    background: linear-gradient(94.43deg, #d2c6e6, #e8d3e7 28.82%, #b3daf2 73.91%, #d8e8f3);
+    width: 1262px;
+    height: 471px;
+    overflow: hidden;
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 80px 100px 80px 84px;
+    box-sizing: border-box;
+}
+.about {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-size: 20px;
+    color: #000;
+    text-align: center;
+}
+.aboutUs {
+    position: absolute;
+    top: 50px;
+    left: 0px;
+    font-weight: 500;
+}
+.privacyPolicy {
+    position: absolute;
+    top: 93px;
+    left: 0px;
+    font-weight: 500;
+}
+.termsOfService1 {
+    position: absolute;
+    top: 136px;
+    left: 0px;
+    font-weight: 500;
+}
+.aboutParent {
+    position: absolute;
+    top: 0px;
+    left: 419px;
+    width: 125px;
+    height: 159px;
+}
+.findADoctor1 {
+    position: absolute;
+    top: 50px;
+    left: 7px;
+    font-weight: 500;
+}
+.bookAnAppointment1 {
+    position: absolute;
+    top: 93px;
+    left: 7px;
+    font-weight: 500;
+}
+.telehealthServices {
+    position: absolute;
+    top: 136px;
+    left: 7px;
+    font-weight: 500;
+}
+.medicationOrdering {
+    position: absolute;
+    top: 179px;
+    left: 7px;
+    font-weight: 500;
+}
+.quickLinksParent {
+    position: absolute;
+    top: 0px;
+    left: 676px;
+    width: 172px;
+    height: 202px;
+}
+.aCuttingEdgeHealthcare1 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-weight: 500;
+    display: inline-block;
+    width: 288px;
+}
+.aCuttingEdgeHealthcareTechWrapper {
+    position: absolute;
+    top: 50px;
+    left: 0px;
+    width: 288px;
+    height: 115px;
+}
+.contact1 {
+    position: absolute;
+    top: 0px;
+    left: 0.2px;
+    font-size: 20px;
+    color: #000;
+    text-align: center;
+}
+.div {
+    position: absolute;
+    top: 50px;
+    left: 0.2px;
+    font-weight: 500;
+}
+.healthchainprogmailcom {
+    position: absolute;
+    top: 93px;
+    left: 0.2px;
+    font-weight: 500;
+}
+.youtubeIcon1 {
+    position: relative;
+    width: 25px;
+    height: 25px;
+    overflow: hidden;
+    flex-shrink: 0;
+}
+.youtubeParent {
+    position: absolute;
+    top: 136px;
+    left: 0px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+}
+.contactParent {
+    position: absolute;
+    top: 0px;
+    left: 932.8px;
+    width: 214.2px;
+    height: 161px;
+}
+.footer {
+    position: relative;
+    width: 1147px;
+    height: 202px;
+    margin-top: -53px;
+    font-size: 15px;
+    color: rgba(0, 0, 0, 0.5);
+    font-family: Poppins;
+}
+.frameParent3 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    font-size: 30px;
+    color: #000;
+}
+.copyright20231 {
+    position: relative;
+    font-size: 20px;
+    font-weight: 500;
+    font-family: Poppins;
+    color: rgba(0, 0, 0, 0.5);
+}
+.containerParent {
+    position: absolute;
+    top: 2708px;
+    left: 89px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 49px;
+    font-size: 16px;
+    color: #303030;
+}
+.whereAiMeets {
+    align-self: stretch;
+    position: relative;
+    letter-spacing: -0.03em;
+    line-height: 68px;
+    font-weight: 800;
+}
+.frame26 {
+    align-self: stretch;
+    height: 204px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+.text13 {
+    width: 650px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+.textWrapper {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+.container9 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 30px;
+    background: linear-gradient(94.43deg, #d2c6e6, #e8d3e7 28.82%, #b3daf2 73.91%, #d8e8f3);
+    width: 1262px;
+    height: 358px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 80px 100px 80px 84px;
+    box-sizing: border-box;
+}
+.weRePioneering1 {
+    position: relative;
+    letter-spacing: -0.01em;
+    line-height: 160%;
+    display: inline-block;
+    width: 650px;
+}
+.ethereumLogoLandscapeBlackIcon {
+    position: relative;
+    width: 136px;
+    height: 34px;
+    object-fit: cover;
+}
+.weRePioneeringTheFutureOfParent {
+    position: absolute;
+    top: 415px;
+    left: 59px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 30px;
+    font-size: 24px;
+    color: #647067;
+}
+.groupChild {
+    position: absolute;
+    height: 71.29%;
+    width: 50.81%;
+    top: 11.46%;
+    right: 0%;
+    bottom: 17.25%;
+    left: 49.19%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+}
+.containerGroup {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1275.45px;
+    height: 763px;
+}
+.homeInner {
+    position: absolute;
+    top: 118px;
+    left: 94px;
+    width: 1275.45px;
+    height: 763px;
+}
+.home {
+    position: relative;
+    background-color: #fff;
+    width: 100%;
+    height: 3573px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 60px;
+    color: #2f3c33;
+    font-family: Nunito;
+}
+

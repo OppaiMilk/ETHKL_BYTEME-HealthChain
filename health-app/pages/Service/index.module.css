@@ -1,0 +1,913 @@
+.container2 {
+    position: absolute;
+    top: 0.15px;
+    left: 0px;
+    background-color: rgba(255, 255, 255, 0.1);
+    width: 1440px;
+    height: 117.85px;
+}
+.home {
+    position: relative;
+    line-height: 18px;
+}
+.linkList {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+}
+.vectorIcon11 {
+    position: relative;
+    width: 13.07px;
+    height: 7.23px;
+}
+.linkList1 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 10px;
+}
+.sections {
+    position: absolute;
+    top: calc(50% - 9px);
+    left: calc(50% - 206.33px);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 33px;
+}
+.masterPrimaryButton1 {
+    border-radius: 30px;
+    background-color: #000;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-end;
+    padding: 18px 24px;
+}
+.secondaryCricleButton1 {
+    position: relative;
+    width: 50px;
+    height: 50px;
+}
+.buttonsSet {
+    position: absolute;
+    top: 32px;
+    left: 1118px;
+    width: 300px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-end;
+    padding: 0px 0px 0px 25px;
+    box-sizing: border-box;
+    gap: 24px;
+    font-size: 16px;
+    color: #fff;
+}
+.logoStyleGuideTopChild {
+    position: absolute;
+    height: 100%;
+    width: 13.15%;
+    top: 0%;
+    right: 86.85%;
+    bottom: 0%;
+    left: 0%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.health {
+    position: absolute;
+    height: 72.78%;
+    width: 36.74%;
+    top: 20.89%;
+    left: 17.22%;
+    letter-spacing: -0.03em;
+    line-height: 25px;
+    font-weight: 800;
+    display: inline-block;
+}
+.chain {
+    position: absolute;
+    height: 72.78%;
+    width: 82.66%;
+    top: 20.89%;
+    left: 52.43%;
+    letter-spacing: -0.03em;
+    line-height: 25px;
+    font-weight: 800;
+    color: rgba(0, 0, 0, 0.5);
+    display: inline-block;
+}
+.logoStyleGuideTop1 {
+    position: absolute;
+    top: 41.83px;
+    left: 110px;
+    width: 261.31px;
+    height: 34.35px;
+    text-align: left;
+    font-size: 30px;
+    color: #000;
+    font-family: Nunito;
+}
+.headersV5 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1440px;
+    height: 118px;
+    font-size: 18px;
+    color: #5d5a88;
+    font-family: 'DM Sans';
+}
+.imageIcon {
+    position: relative;
+    width: 937.33px;
+    height: 472px;
+    object-fit: cover;
+}
+.pricing {
+    position: relative;
+    letter-spacing: -0.02em;
+}
+.tag {
+    border-radius: 18px;
+    border: 1px solid #2f3c33;
+    box-sizing: border-box;
+    height: 48px;
+    overflow: hidden;
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 16px 24px;
+    text-align: center;
+}
+.bookAFree1 {
+    align-self: stretch;
+    position: relative;
+    font-size: 60px;
+    letter-spacing: -0.03em;
+    line-height: 68px;
+    font-weight: 800;
+}
+.text4 {
+    position: relative;
+    letter-spacing: -0.02em;
+    font-weight: 800;
+}
+.solidArrowRightSm1 {
+    position: relative;
+    width: 24px;
+    height: 24px;
+}
+.content1 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 16px;
+}
+.buttonPrimaryIcon10 {
+    border-radius: 24px;
+    background-color: #2f3c33;
+    height: 64px;
+    overflow: hidden;
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 16px 32px;
+    box-sizing: border-box;
+    font-size: 18px;
+    color: #fff;
+}
+.text3 {
+    width: 448px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 32px;
+}
+.content {
+    width: 1107px;
+    height: 290px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 142px;
+}
+.container3 {
+    position: absolute;
+    top: 1500px;
+    left: 99px;
+    border-radius: 30px;
+    background: linear-gradient(94.43deg, #d2c6e6, #e8d3e7 28.82%, #b3daf2 73.91%, #d8e8f3);
+    width: 1300px;
+    height: 440px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 80px 100px 80px 84px;
+    box-sizing: border-box;
+    text-align: left;
+    font-size: 16px;
+}
+.pro {
+    position: absolute;
+    height: 0.61%;
+    width: 2.43%;
+    top: 1.3%;
+    left: 22%;
+    letter-spacing: -0.03em;
+    line-height: 25px;
+    font-weight: 800;
+    color: #000;
+    text-align: left;
+    display: inline-block;
+}
+.ourCoreFeatures1 {
+    position: absolute;
+    top: 161px;
+    left: 600px;
+    font-size: 60px;
+    letter-spacing: -0.03em;
+    line-height: 68px;
+    font-weight: 800;
+}
+.oslerSAi {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    letter-spacing: -0.02em;
+    font-weight: 800;
+    display: inline-block;
+    width: 81px;
+}
+.frameChild {
+    position: relative;
+    border-radius: 48px;
+    background-color: #fff;
+    width: 391px;
+    height: 50px;
+    z-index: 0;
+}
+.searchItemsAnd3 {
+    position: relative;
+    font-weight: 500;
+}
+.pinParent {
+    margin: 0 !important;
+    position: absolute;
+    top: 10px;
+    left: 26px;
+    border-radius: 48px;
+    height: 30px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 10px;
+    z-index: 1;
+}
+.rectangleParent {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 10px;
+}
+.frameWrapper {
+    position: absolute;
+    top: 37px;
+    left: 0px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.1);
+    width: 391px;
+    height: 50px;
+    text-align: left;
+    font-size: 15px;
+    color: #9aa19c;
+}
+.oslerSAiDrivenTelehealthBParent {
+    position: relative;
+    width: 391px;
+    height: 87px;
+}
+.oslerSAi1 {
+    position: absolute;
+    top: 0px;
+    left: -60px;
+    letter-spacing: -0.02em;
+    font-weight: 800;
+    display: inline-block;
+    width: 300px;
+}
+.filterBigParent {
+    margin: 0 !important;
+    position: absolute;
+    top: 10px;
+    left: 26px;
+    border-radius: 48px;
+    width: 294px;
+    height: 30px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 10px;
+    z-index: 1;
+}
+.oslerSAi2 {
+    position: absolute;
+    top: 0px;
+    left: -70px;
+    letter-spacing: -0.02em;
+    font-weight: 800;
+    display: inline-block;
+    width: 300px;
+}
+.frameWrapper1 {
+    position: absolute;
+    top: 37px;
+    left: 0.67px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.1);
+    width: 391px;
+    height: 50px;
+    text-align: left;
+    font-size: 15px;
+    color: #9aa19c;
+}
+.oslerSAiDrivenTelehealthBContainer {
+    position: relative;
+    width: 391.67px;
+    height: 87px;
+}
+.groupParent {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+}
+.linkList2 {
+    width: 1234px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-end;
+    gap: 10px;
+    font-size: 18px;
+    color: #0b51b9;
+    font-family: 'DM Sans';
+}
+.frameParent {
+    position: absolute;
+    top: 273px;
+    left: 99px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 24px;
+}
+.about {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-size: 20px;
+    color: #000;
+    text-align: center;
+}
+.product {
+    position: absolute;
+    top: 50px;
+    left: 0px;
+    font-weight: 500;
+}
+.resource {
+    position: absolute;
+    top: 93px;
+    left: 0px;
+    font-weight: 500;
+}
+.termCondition1 {
+    position: absolute;
+    top: 136px;
+    left: 0px;
+    font-weight: 500;
+}
+.faq {
+    position: absolute;
+    top: 179px;
+    left: 0px;
+    font-weight: 500;
+}
+.aboutParent {
+    position: absolute;
+    top: 0px;
+    left: 419px;
+    width: 133px;
+    height: 202px;
+}
+.companyParent {
+    position: absolute;
+    top: 0px;
+    left: 683px;
+    width: 119px;
+    height: 202px;
+}
+.theBestNft {
+    position: absolute;
+    top: 50px;
+    left: 0px;
+    font-weight: 500;
+    display: inline-block;
+    width: 288px;
+}
+.so {
+    background: linear-gradient(214.02deg, #b75cff, #671ae4);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.healthbottom {
+    position: absolute;
+    height: 72.78%;
+    width: 36.74%;
+    top: 20.89%;
+    letter-spacing: -0.03em;
+    line-height: 25px;
+    font-weight: 800;
+    display: inline-block;
+}
+.chainbottom {
+    position: absolute;
+    height: 72.78%;
+    width: 82.66%;
+    top: 20.89%;
+    left: 35.21%;
+    letter-spacing: -0.03em;
+    line-height: 25px;
+    font-weight: 800;
+    color: rgba(0, 0, 0, 0.5);
+    display: inline-block;
+}
+.logoStyleGuideBottom {
+    position: absolute;
+    width: 261.31px;
+    height: 34.35px;
+    text-align: left;
+    font-size: 30px;
+    color: #000;
+    font-family: Nunito;
+}
+.tetrasolana {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-size: 25px;
+    text-align: center;
+    color: #000;
+}
+.theBestNftMarketplaceWebsiParent {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 288px;
+    height: 119px;
+}
+.youtubeIcon1 {
+    position: relative;
+    width: 25px;
+    height: 25px;
+    overflow: hidden;
+    flex-shrink: 0;
+}
+.youtubeParent {
+    position: absolute;
+    top: 136px;
+    left: 0px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+}
+.contactParent {
+    position: absolute;
+    top: 0px;
+    left: 933px;
+    width: 185px;
+    height: 161px;
+}
+.footer {
+    position: absolute;
+    top: 2057px;
+    left: 171px;
+    width: 1118px;
+    height: 202px;
+    text-align: left;
+    font-size: 15px;
+    color: rgba(0, 0, 0, 0.5);
+    font-family: Poppins;
+}
+.tetrasolanaAllRights {
+    position: absolute;
+    top: 2313px;
+    left: 551px;
+    font-weight: 500;
+    font-family: Poppins;
+    color: rgba(0, 0, 0, 0.5);
+    text-align: left;
+}
+.vectorIcon13 {
+    position: absolute;
+    height: 0.61%;
+    width: 1.88%;
+    top: 28.62%;
+    right: 54.24%;
+    bottom: 70.78%;
+    left: 43.89%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.logoPillow32 {
+    position: absolute;
+    height: 38.89%;
+    width: 27.78%;
+    top: 36.11%;
+    right: 30.56%;
+    bottom: 25%;
+    left: 41.67%;
+    border-radius: 9px;
+    background-color: #e3e4e3;
+    transform:  rotate(90deg);
+    transform-origin: 0 0;
+}
+.logoPillow33 {
+    position: absolute;
+    height: 38.89%;
+    top: 36.11%;
+    right: -18px;
+    bottom: 25%;
+    border-radius: 9px;
+    background-color: #e3e4e3;
+    width: 20px;
+    transform:  rotate(90deg);
+    transform-origin: 0 0;
+}
+.logoPillow34 {
+    position: absolute;
+    bottom: 2px;
+    left: calc(50% - 10px);
+    border-radius: 9px;
+    background-color: #e3e4e3;
+    width: 20px;
+    height: 28px;
+}
+.logoPillow35 {
+    position: absolute;
+    top: 2px;
+    left: calc(50% - 10px);
+    border-radius: 9px;
+    background-color: #e3e4e3;
+    width: 20px;
+    height: 28px;
+}
+.logomark {
+    position: absolute;
+    top: calc(50% - 35.5px);
+    left: calc(50% - 36px);
+    width: 72px;
+    height: 72px;
+}
+.frame1 {
+    align-self: stretch;
+    flex: 1;
+    position: relative;
+    border-radius: 40px;
+    background-color: #fff;
+    border: 1px solid #c5c8c6;
+    overflow: hidden;
+}
+.jun {
+    position: relative;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    font-weight: 900;
+}
+.oslerPillow8 {
+    position: relative;
+    border-radius: 1.5px;
+    background-color: #c5c8c6;
+    width: 4px;
+    height: 4px;
+    overflow: hidden;
+    flex-shrink: 0;
+}
+.frame3 {
+    align-self: stretch;
+    display: none;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 12px;
+    text-align: left;
+    color: #647067;
+}
+.oslerSAi3 {
+    align-self: stretch;
+    position: relative;
+    font-size: 20px;
+    letter-spacing: -0.02em;
+    font-weight: 800;
+}
+.tag1 {
+    border-radius: 15px;
+    border: 1px solid #647067;
+    box-sizing: border-box;
+    height: 40px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 10px 16px;
+}
+.pricing2 {
+    position: relative;
+    letter-spacing: -0.01em;
+}
+.tag2 {
+    border-radius: 12px;
+    border: 1px solid #647067;
+    box-sizing: border-box;
+    height: 40px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 8px 12px;
+    font-size: 14px;
+}
+.frame4 {
+    display: none;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 8px;
+    font-size: 16px;
+}
+.frame2 {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 16px;
+}
+.text5 {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-end;
+}
+.content2 {
+    align-self: stretch;
+    flex: 1;
+    display: none;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 24px;
+}
+.frame {
+    border-radius: 48px;
+    background-color: #f5f5f5;
+    width: 274px;
+    height: 418px;
+    overflow: hidden;
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 16px 16px 50px;
+    box-sizing: border-box;
+    z-index: 0;
+}
+.istockphoto1311511363612x612Icon {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 241px;
+    height: 304px;
+    object-fit: cover;
+}
+.istockphoto1311511363612x612Wrapper {
+    position: absolute;
+    top: 0px;
+    left: 1px;
+    border-radius: 40px;
+    width: 241px;
+    height: 304px;
+    overflow: hidden;
+}
+.buttonPrimaryIcon11 {
+    align-self: stretch;
+    flex: 1;
+    border-radius: 24px;
+    background-color: #ececec;
+    overflow: hidden;
+    z-index: 0;
+}
+.vectorIcon14 {
+    position: relative;
+    width: 15px;
+    height: 15.5px;
+}
+.socialIcons16 {
+    position: relative;
+    width: 15px;
+    height: 15.5px;
+    overflow: hidden;
+    flex-shrink: 0;
+}
+.socialIcons17 {
+    position: relative;
+    width: 15px;
+    height: 14.52px;
+    overflow: hidden;
+    flex-shrink: 0;
+}
+.vectorParent {
+    margin: 0 !important;
+    position: absolute;
+    top: 7px;
+    left: 11px;
+    width: 111px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 25px;
+    z-index: 1;
+}
+.buttonPrimaryIconParent {
+    position: absolute;
+    top: 290px;
+    left: 54px;
+    width: 135px;
+    height: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 10px;
+}
+.pricing3 {
+    position: absolute;
+    top: 363px;
+    left: 79px;
+    letter-spacing: -0.02em;
+}
+.oslerSAi4 {
+    position: absolute;
+    top: 336px;
+    left: 0px;
+    font-size: 20px;
+    letter-spacing: -0.02em;
+    font-weight: 800;
+    display: inline-block;
+    width: 242px;
+}
+.frameParent1 {
+    position: absolute;
+    margin: 0 !important;
+    top: 18px;
+    left: 16px;
+    width: 242px;
+    height: 385px;
+    z-index: 1;
+    font-size: 16px;
+}
+.frameDiv {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    position: relative;
+    gap: 10px;
+}
+.istockphoto1330046035612x612Icon {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 235px;
+    height: 304px;
+    object-fit: cover;
+}
+.pricing6 {
+    position: absolute;
+    top: 363px;
+    left: 61px;
+    letter-spacing: -0.02em;
+}
+.pricing9 {
+    position: absolute;
+    top: 363px;
+    left: 48px;
+    letter-spacing: -0.02em;
+}
+.image14Icon {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 241px;
+    height: 305px;
+    object-fit: cover;
+}
+.pricing12 {
+    position: absolute;
+    top: 363px;
+    left: 82px;
+    letter-spacing: -0.02em;
+}
+.frameGroup {
+    position: absolute;
+    top: 459px;
+    left: 144px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 19px;
+    font-size: 12px;
+}
+.pricing18 {
+    position: absolute;
+    top: 363px;
+    left: 47px;
+    letter-spacing: -0.02em;
+}
+.frameParent8 {
+    position: absolute;
+    top: 907px;
+    left: 149px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 19px;
+    font-size: 12px;
+}
+.content10 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+.buttonPrimaryIcon19 {
+    position: absolute;
+    top: 1387px;
+    left: 648px;
+    border-radius: 24px;
+    background-color: #2f3c33;
+    height: 64px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 16px 32px;
+    box-sizing: border-box;
+    text-align: left;
+    font-size: 18px;
+    color: #fff;
+}
+.service {
+    position: relative;
+    background-color: #fff;
+    width: 100%;
+    height: 2412px;
+    overflow: hidden;
+    text-align: center;
+    font-size: 20px;
+    color: #2f3c33;
+    font-family: Nunito;
+}
+
