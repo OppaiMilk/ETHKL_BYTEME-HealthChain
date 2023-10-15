@@ -34,3 +34,64 @@ body {
   	margin: 0; line-height: normal;
 }
 
+
+/* styles/globals.css */
+
+.booking-success-alert {
+  background-color: #ffffff;
+  border: 2px solid #007bff;
+  padding: 20px;
+  border-radius: 8px;
+  max-width: 300px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.booking-success-alert .content {
+  margin-bottom: 10px;
+}
+
+.booking-success-alert .icon {
+  font-size: 48px;
+  color: #007bff;
+}
+
+.booking-success-alert .message {
+  color: #007bff;
+  font-size: 18px;
+  font-weight: bold;
+  margin: 10px 0;
+}
+
+.booking-success-alert .details {
+  color: #000000;
+}
+
+.booking-success-alert .close {
+  background-color: #000000;
+  color: #ffffff;
+  border: none;
+  padding: 8px 16px;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');
+body {
+  	margin: 0; line-height: normal;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+body {
+  	margin: 0; line-height: normal;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,500;0,700;0,800;1,200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500;700&display=swap');
+body {
+  	margin: 0; line-height: normal;
+}

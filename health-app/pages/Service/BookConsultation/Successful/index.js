@@ -1,39 +1,32 @@
 import styles from './index.module.css';
-import Link from 'next/link';
-import YourComponent from '@/component/SuccessMessage';
 
-const BookConsultation = () => {
-	const showAlert = () =>{
-		alert('successful.');
-	} 
 
-	return (
-    		<div className={styles.bookConsultation}>
+const SuccessfullyBooked = () => {
+  	return (
+    		<div className={styles.successfullyBooked}>
       			<div className={styles.headersV5}>
         				<div className={styles.container2} />
         				<div className={styles.sections}>
-						<Link href="/">
-          					<div className={styles.services}>Home</div>
-							</Link>
-          					<Link href="/Service" className={styles.linkList}>
-            						<div className={styles.services}>Services</div>
-            						<img className={styles.vectorIcon2} alt="" src="/HomePageImage/blue arrow.svg" />
-          					</Link>
-          					<Link href="/MarketPlace" className={styles.linkList}>
-            						<div className={styles.services}>Marketplace</div>
-            						<img className={styles.vectorIcon2} alt="" src="/HomePageImage/blue arrow.svg" />
-          					</Link>
+          					<div className={styles.home}>Home</div>
+          					<div className={styles.linkList}>
+            						<b className={styles.home}>Services</b>
+            						<img className={styles.vectorIcon4} alt="" src="Vector.svg" />
+          					</div>
+          					<div className={styles.linkList}>
+            						<div className={styles.home}>Marketplace</div>
+            						<img className={styles.vectorIcon5} alt="" src="Vector.svg" />
+          					</div>
           					<div className={styles.home}>Contact</div>
         				</div>
         				<div className={styles.buttonsSet}>
           					<div className={styles.masterPrimaryButton1}>
             						<b className={styles.home}>Connect Wallet</b>
           					</div>
-          					<img className={styles.userIcon1} alt="" src="/HomePageImage/User.png" />
+          					<img className={styles.userIcon1} alt="" src="User.svg" />
         				</div>
         				<div className={styles.frameParent}>
           					<div className={styles.group5CopyParent}>
-            						<img className={styles.group5Copy2} alt="" src="/HomePageImage/Group 5 Copy.svg" />
+            						<img className={styles.group5Copy2} alt="" src="Group 5 Copy.svg" />
             						<div className={styles.healthParent}>
               							<div className={styles.health}>Health</div>
               							<div className={styles.chain}>Chain</div>
@@ -42,22 +35,21 @@ const BookConsultation = () => {
           					<div className={styles.pro}>Pro</div>
         				</div>
       			</div>
-      			<img className={styles.vectorIcon7} alt="" src="/ServicePageDetailsImage/Vector (1).svg" />
       			<div className={styles.ourCoreFeatures1}>Book Consultation</div>
-      			<img className={styles.vectorIcon7} alt="" src="/ServicePageDetailsImage/Vector (2).svg" />
+      			<img className={styles.vectorIcon6} alt="" src="Vector.svg" />
       			<div className={styles.containerParent}>
         				<div className={styles.container3}>
           					<div className={styles.content}>
-            						<img className={styles.contentChild} alt="" src="/HomePageImage/Group 1890.png" />
-            						<div className={styles.text52}>
+            						<img className={styles.contentChild} alt="" src="Group 1890.png" />
+            						<div className={styles.text53}>
               							<div className={styles.tag}>
                 								<b className={styles.pricing}>Sign Up Today</b>
               							</div>
               							<div className={styles.bookAFree1}>Book A Free Consultation.</div>
               							<div className={styles.buttonPrimaryIcon3}>
                 								<div className={styles.content1}>
-                  									<div className={styles.text53}>Download The App</div>
-                  									<img className={styles.days} alt="" src="/HomePageImage/Solid arrow right sm.svg" />
+                  									<div className={styles.text54}>Download The App</div>
+                  									<img className={styles.days} alt="" src="Solid arrow right sm.svg" />
                 								</div>
               							</div>
             						</div>
@@ -66,7 +58,7 @@ const BookConsultation = () => {
         				<div className={styles.frameGroup}>
           					<div className={styles.frameDiv}>
             						<div className={styles.group5CopyParent}>
-              							<img className={styles.group5Copy2} alt="" src="/HomePageImage/Group 5 Copy.svg" />
+              							<img className={styles.group5Copy2} alt="" src="Group 5 Copy.svg" />
               							<div className={styles.healthParent}>
                 								<div className={styles.health}>Health</div>
                 								<div className={styles.chain}>Chain</div>
@@ -96,9 +88,9 @@ const BookConsultation = () => {
               							<div className={styles.div}>+012 3456789</div>
               							<div className={styles.healthchainprogmailcom}>healthchainpro@gmail.com</div>
               							<div className={styles.youtubeParent}>
-                								<img className={styles.youtubeIcon1} alt="" src="/HomePageImage/youtube.svg" />
-                								<img className={styles.youtubeIcon1} alt="" src="/HomePageImage/discord.svg" />
-                								<img className={styles.youtubeIcon1} alt="" src="/HomePageImage/instagram.svg" />
+                								<img className={styles.youtubeIcon1} alt="" src="youtube.svg" />
+                								<img className={styles.youtubeIcon1} alt="" src="discord.svg" />
+                								<img className={styles.youtubeIcon1} alt="" src="instagram.svg" />
               							</div>
             						</div>
           					</div>
@@ -106,24 +98,24 @@ const BookConsultation = () => {
         				<div className={styles.copyright20231}>Copyright © 2023 HealthChainPro. All rights reserved.</div>
       			</div>
       			<div className={styles.groupDiv}>
-        				<div className={styles.frame1}>
+        				<div className={styles.frame2}>
           					<div className={styles.frameInner}>
             						<div className={styles.frameParent1}>
               							<div className={styles.istockphoto1330046035612x612Wrapper}>
-                								<img className={styles.istockphoto1330046035612x612Icon} alt="" src="/ServicePageDetailsImage/istockphoto-1330046035-612x612 1.png" />
+                								<img className={styles.istockphoto1330046035612x612Icon} alt="" src="istockphoto-1330046035-612x612 1.png" />
               							</div>
               							<div className={styles.buttonPrimaryIconParent}>
                 								<div className={styles.buttonPrimaryIcon4} />
                 								<div className={styles.vectorParent}>
-                  									<img className={styles.vectorIcon9} alt="" src="/ServicePageDetailsImage/Vector (2).svg" />
-                  									<img className={styles.socialIcons2} alt="" src="/ServicePageDetailsImage/Social Icons.png" />
-                  									<img className={styles.socialIcons3} alt="" src="/ServicePageDetailsImage/Social Icons (1).png" />
+                  									<img className={styles.vectorIcon7} alt="" src="Vector.svg" />
+                  									<img className={styles.socialIcons2} alt="" src="Social Icons.svg" />
+                  									<img className={styles.socialIcons3} alt="" src="Social Icons.svg" />
                 								</div>
               							</div>
             						</div>
           					</div>
           					<div className={styles.content2}>
-            						<div className={styles.frame2}>
+            						<div className={styles.frame3}>
               							<div className={styles.logomark}>
                 								<div className={styles.logoPillow4} />
                 								<div className={styles.logoPillow5} />
@@ -131,15 +123,15 @@ const BookConsultation = () => {
                 								<div className={styles.logoPillow7} />
               							</div>
             						</div>
-            						<div className={styles.text54}>
-              							<div className={styles.frame3}>
-                								<div className={styles.frame4}>
+            						<div className={styles.text55}>
+              							<div className={styles.frame4}>
+                								<div className={styles.frame5}>
                   									<div className={styles.jun}>sEPT 9, 2023</div>
                   									<div className={styles.oslerPillow1} />
                   									<div className={styles.jun}>john smith</div>
                 								</div>
                 								<div className={styles.oslerSAi}>Patient Data Privacy and</div>
-                								<div className={styles.frame5}>
+                								<div className={styles.frame6}>
                   									<div className={styles.tag1}>
                     										<b className={styles.pricing}>AI</b>
                   									</div>
@@ -163,7 +155,7 @@ const BookConsultation = () => {
                       											<div className={styles.heightCard}>
                         												<div className={styles.heightText}>
                           													<div className={styles.starParent}>
-                            														<img className={styles.frameChild} alt="" src="/ServicePageDetailsImage/Star 5.svg" />
+                            														<img className={styles.frameChild} alt="" src="Star 5.svg" />
                             														<div className={styles.div1}>4.8</div>
                           													</div>
                           													<div className={styles.rating}>Rating</div>
@@ -193,11 +185,11 @@ const BookConsultation = () => {
                 								</div>
                 								<div className={styles.frameParent5}>
                   									<div className={styles.iconCalendarParent}>
-                    										<img className={styles.iconCalendar1} alt="" src="/ServicePageDetailsImage/Icon_Calendar.png" />
+                    										<img className={styles.iconCalendar1} alt="" src="Icon_Calendar.svg" />
                     										<div className={styles.mondayFriday1}>Monday - Friday, 08:00 AM - 21:00 PM</div>
                   									</div>
                   									<div className={styles.iconLocationParent}>
-                    										<img className={styles.iconCalendar1} alt="" src="/ServicePageDetailsImage/Icon_Location.png" />
+                    										<img className={styles.iconCalendar1} alt="" src="Icon_Location.svg" />
                     										<div className={styles.jalanLagoonSelatan1}>5, Jalan Lagoon Selatan, Bandar Sunway, 47500 Subang Jaya, Selangor</div>
                   									</div>
                 								</div>
@@ -214,9 +206,9 @@ const BookConsultation = () => {
                 								<div className={styles.frameChild1} />
                 								<div className={styles.english}>
                   									<div className={styles.month}>
-                    										<img className={styles.icons2} alt="" src="/BookingImage/Icons (1).png" />
+                    										<img className={styles.icons2} alt="" src="Icons.svg" />
                     										<div className={styles.august2023}>August 2023</div>
-                    										<img className={styles.icons2} alt="" src="/BookingImage/Icons.png" />
+                    										<img className={styles.icons2} alt="" src="Icons.svg" />
                   									</div>
                   									<div className={styles.week}>
                     										<div className={styles.weekBase}>
@@ -417,16 +409,15 @@ const BookConsultation = () => {
             						<div className={styles.buttonPrimaryIcon5}>
               							<div className={styles.content3}>
                 								<div className={styles.pricing}>
-                  									<p onClick={showAlert} className={styles.bookConsultation1}>
+                  									<p className={styles.bookConsultation}>
                     										<span className={styles.span}>
-                      											Book Consultation
+                      											<span>Book Consultation</span>
                     										</span>
                   									</p>
-
                   									<p className={styles.ethConsult}>
                     										<span>
                       											<span className={styles.span}>{`( `}</span>
-                      											<b className={styles.eth}>0.01 ETH</b>
+                      											<b className={styles.eth}>0.0001 ETH</b>
                       											<span className={styles.consult}>
                         												<span className={styles.span1}>{` `}</span>
                         												<span className={styles.consult1}>/ consult</span>
@@ -440,7 +431,21 @@ const BookConsultation = () => {
           					</div>
         				</div>
       			</div>
+      			<div className={styles.successfulOrder}>
+        				<div className={styles.frameParent11}>
+          					<div className={styles.frameParent12}>
+            						<img className={styles.frameIcon} alt="" src="Frame 1171274959.svg" />
+            						<div className={styles.yourAppointmentHasBeenConfParent}>
+              							<div className={styles.yourAppointmentHas1}>Your Appointment Has Been Confirmed</div>
+              							<div className={styles.yourAppointmentWith1}>{`Your appointment with Dr. Linda Walker on Wednesday, August 17, 2023 at 11:00 AM  `}</div>
+            						</div>
+          					</div>
+          					<div className={styles.button}>
+            						<div className={styles.text69}>View Appointment</div>
+          					</div>
+        				</div>
+      			</div>
     		</div>);
 };
 
-export default BookConsultation;
+export default SuccessfullyBooked;

@@ -10,7 +10,7 @@
     position: relative;
     line-height: 18px;
 }
-.vectorIcon5 {
+.vectorIcon4 {
     position: relative;
     width: 13.67px;
     height: 7.83px;
@@ -22,7 +22,7 @@
     justify-content: flex-start;
     gap: 10px;
 }
-.vectorIcon6 {
+.vectorIcon5 {
     position: relative;
     width: 13.07px;
     height: 7.23px;
@@ -55,7 +55,7 @@
     position: absolute;
     top: 32px;
     left: 1118px;
-    width: 300px;
+    width: 212px;
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -143,7 +143,16 @@
     color: #5d5a88;
     font-family: 'DM Sans';
 }
-.vectorIcon7 {
+.ourCoreFeatures1 {
+    position: absolute;
+    top: 145px;
+    left: 123px;
+    font-size: 40px;
+    letter-spacing: -0.03em;
+    line-height: 68px;
+    font-weight: 800;
+}
+.vectorIcon6 {
     position: absolute;
     height: 0.61%;
     width: 1.88%;
@@ -154,15 +163,6 @@
     max-width: 100%;
     overflow: hidden;
     max-height: 100%;
-}
-.ourCoreFeatures1 {
-    position: absolute;
-    top: 145px;
-    left: 123px;
-    font-size: 40px;
-    letter-spacing: -0.03em;
-    line-height: 68px;
-    font-weight: 800;
 }
 .contentChild {
     position: relative;
@@ -196,7 +196,7 @@
     line-height: 68px;
     font-weight: 800;
 }
-.text53 {
+.text54 {
     position: relative;
     letter-spacing: -0.02em;
     font-weight: 800;
@@ -223,7 +223,7 @@
     font-size: 18px;
     color: #fff;
 }
-.text52 {
+.text53 {
     width: 448px;
     display: flex;
     flex-direction: column;
@@ -448,7 +448,7 @@
     overflow: hidden;
     z-index: 0;
 }
-.vectorIcon9 {
+.vectorIcon7 {
     position: relative;
     width: 15px;
     height: 15.5px;
@@ -562,7 +562,7 @@
     width: 72px;
     height: 72px;
 }
-.frame2 {
+.frame3 {
     align-self: stretch;
     flex: 1;
     position: relative;
@@ -586,7 +586,7 @@
     overflow: hidden;
     flex-shrink: 0;
 }
-.frame4 {
+.frame5 {
     align-self: stretch;
     display: none;
     flex-direction: row;
@@ -632,7 +632,7 @@
     padding: 8px 12px;
     font-size: 14px;
 }
-.frame5 {
+.frame6 {
     display: none;
     flex-direction: row;
     align-items: flex-start;
@@ -640,7 +640,7 @@
     gap: 8px;
     font-size: 16px;
 }
-.frame3 {
+.frame4 {
     align-self: stretch;
     display: flex;
     flex-direction: column;
@@ -648,7 +648,7 @@
     justify-content: flex-start;
     gap: 16px;
 }
-.text54 {
+.text55 {
     align-self: stretch;
     display: flex;
     flex-direction: column;
@@ -664,7 +664,7 @@
     justify-content: center;
     gap: 24px;
 }
-.frame1 {
+.frame2 {
     position: absolute;
     top: 0px;
     left: 0px;
@@ -1199,7 +1199,7 @@
     font-size: 16px;
     color: #101828;
 }
-.bookConsultation1 {
+.bookConsultation {
     margin: 0;
 }
 .span {
@@ -1273,7 +1273,89 @@
     height: 765px;
     font-size: 12px;
 }
-.bookConsultation {
+.frameIcon {
+    position: relative;
+    width: 142px;
+    height: 142px;
+}
+.yourAppointmentHas1 {
+    position: relative;
+    line-height: 28px;
+    font-weight: 600;
+    display: inline-block;
+    width: 248px;
+}
+.yourAppointmentWith1 {
+    position: relative;
+    font-size: 14px;
+    letter-spacing: 0.01em;
+    line-height: 24px;
+    color: #101828;
+    display: inline-block;
+    width: 276px;
+}
+.yourAppointmentHasBeenConfParent {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 24px;
+}
+.frameParent12 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 32px;
+}
+.text69 {
+    position: relative;
+    line-height: 20px;
+    font-weight: 600;
+}
+.button {
+    align-self: stretch;
+    border-radius: 40px;
+    background-color: #303030;
+    height: 52px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 16px;
+    box-sizing: border-box;
+    text-align: left;
+    font-size: 16px;
+    color: #fff;
+}
+.frameParent11 {
+    position: absolute;
+    top: calc(50% - 619.5px);
+    left: calc(50% - 127px);
+    border-radius: 40px;
+    background-color: #fff;
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 32px;
+    gap: 10px;
+}
+.successfulOrder {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: rgba(0, 0, 0, 0.6);
+    width: 1440px;
+    height: 1981px;
+    overflow: hidden;
+    font-size: 20px;
+    color: #3f8efc;
+    font-family: Poppins;
+}
+.successfullyBooked {
     position: relative;
     background-color: #fff;
     width: 100%;
@@ -1285,26 +1367,3 @@
     font-family: Nunito;
 }
 
-/* SuccessMessage.module.css */
-.successMessage {
-    background-color: #4caf50;
-    color: #ffffff;
-    padding: 10px;
-    border-radius: 5px;
-  }
-  
-
-  /* SuccessMessage.module.css */
-.successAlert {
-    position: fixed;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    background-color: #4caf50;
-    color: #ffffff;
-    padding: 10px;
-    border-radius: 5px;
-    text-align: center;
-    font-size: 1.2em;
-  }
-  

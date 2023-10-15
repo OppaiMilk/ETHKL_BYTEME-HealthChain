@@ -1,5 +1,5 @@
 import styles from './index.module.css';
-
+import Link from 'next/link';
 
 const Home = () => {
   	return (
@@ -7,15 +7,17 @@ const Home = () => {
       			<div className={styles.headersV5}>
         				<div className={styles.container5} />
         				<div className={styles.sections}>
+							<Link href="/">
           					<div className={styles.services}>Home</div>
-          					<div className={styles.linkList}>
+							</Link>
+          					<Link href="/Service" className={styles.linkList}>
             						<div className={styles.services}>Services</div>
             						<img className={styles.vectorIcon2} alt="" src="/HomePageImage/blue arrow.svg" />
-          					</div>
-          					<div className={styles.linkList}>
+          					</Link>
+          					<Link href="/MarketPlace" className={styles.linkList}>
             						<div className={styles.services}>Marketplace</div>
             						<img className={styles.vectorIcon2} alt="" src="/HomePageImage/blue arrow.svg" />
-          					</div>
+          					</Link>
           					<div className={styles.services}>Contact</div>
         				</div>
         				<div className={styles.buttonsSet}>
@@ -24,6 +26,7 @@ const Home = () => {
           					</div>
           					<img className={styles.userIcon1} alt="" src="/HomePageImage/User.png" />
         				</div>
+						<Link href="/">
         				<div className={styles.frameParent}>
           					<div className={styles.group5CopyParent}>
             						<img className={styles.group5Copy2} alt="" src="/HomePageImage/Group 5 Copy.svg" />
@@ -34,6 +37,7 @@ const Home = () => {
           					</div>
           					<div className={styles.pro}>Pro</div>
         				</div>
+						</Link>
       			</div>
       			<div className={styles.container6}>
         				<div className={styles.ourCoreFeatures1}>How it works?</div>
@@ -56,11 +60,13 @@ const Home = () => {
                   									</div>
                   									<div />
                 								</div>
+												<Link href="/Service">
                 								<div className={styles.buttonPrimaryIcon4}>
                   									<div className={styles.content1}>
                     										<div className={styles.text5}>Find Doctor now</div>
                   									</div>
                 								</div>
+												</Link>
               							</div>
             						</div>
             						<div className={styles.image16Parent}>
@@ -73,12 +79,14 @@ const Home = () => {
             						<div className={styles.container7}>
               							<div className={styles.content2}>
                 								<div className={styles.oslerLatestNews1}>Stay Informed with HealthChain Pro</div>
+												<Link href="https://www.thestar.com.my/news">
                 								<div className={styles.buttonPrimaryIcon5}>
                   									<div className={styles.junParent}>
                     										<div className={styles.text5}>See All News</div>
                     										<img className={styles.expandRightIcon1} alt="" src="/HomePageImage/Solid arrow right sm.svg" />
                   									</div>
                 								</div>
+												</Link>
               							</div>
               							<div className={styles.cards}>
                 								<div className={styles.frameGroup}>
@@ -270,12 +278,14 @@ const Home = () => {
                       											<b className={styles.pricing}>Sign Up Today</b>
                     										</div>
                     										<div className={styles.bookAFree1}>Book A Free Consultation.</div>
+															<Link href="/ErrorPage">
                     										<div className={styles.buttonPrimaryIcon4}>
                       											<div className={styles.junParent}>
                         												<div className={styles.text5}>Download The App</div>
                         												<img className={styles.expandRightIcon1} alt="" src="/HomePageImage/Solid arrow right sm.svg" />
                       											</div>
                     										</div>
+															</Link>
                   									</div>
                 								</div>
               							</div>
@@ -337,12 +347,14 @@ const Home = () => {
                     										<div className={styles.textWrapper}>
                       											<img className={styles.ethereumLogoLandscapeBlackIcon} alt="" src="/HomePageImage/5e6cedab96d4d8ce719e8a9c0b16b84a.png" />
                     										</div>
+															<Link href="/ErrorPage">
                     										<div className={styles.buttonPrimaryIcon4}>
                       											<div className={styles.junParent}>
                         												<div className={styles.text5}>Download The App</div>
                         												<img className={styles.expandRightIcon1} alt="" src="/HomePageImage/Solid arrow right sm.svg" />
                       											</div>
                     										</div>
+															</Link>
                   									</div>
                   									<img className={styles.groupChild} alt="" src="/HomePageImage/Group 1894.png" />
                 								</div>

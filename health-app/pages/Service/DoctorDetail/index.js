@@ -1,5 +1,5 @@
 import styles from './index.module.css';
-
+import Link from 'next/link';
 
 const DoctorDetails = () => {
   	return (
@@ -7,15 +7,17 @@ const DoctorDetails = () => {
       			<div className={styles.headersV5}>
         				<div className={styles.container2} />
         				<div className={styles.sections}>
-          					<div className={styles.home}>Home</div>
-          					<div className={styles.linkList}>
-            						<b className={styles.home}>Services</b>
-            						<img className={styles.vectorIcon4} alt="" src="/ServicePageDetailsImage/Vector.svg" />
-          					</div>
-          					<div className={styles.linkList}>
-            						<div className={styles.home}>Marketplace</div>
-            						<img className={styles.vectorIcon5} alt="" src="/ServicePageDetailsImage/Vector.svg" />
-          					</div>
+						<Link href="/">
+          					<div className={styles.services}>Home</div>
+							</Link>
+          					<Link href="/Service" className={styles.linkList}>
+            						<div className={styles.services}>Services</div>
+            						<img className={styles.vectorIcon2} alt="" src="/HomePageImage/blue arrow.svg" />
+          					</Link>
+          					<Link href="/MarketPlace" className={styles.linkList}>
+            						<div className={styles.services}>Marketplace</div>
+            						<img className={styles.vectorIcon2} alt="" src="/HomePageImage/blue arrow.svg" />
+          					</Link>
           					<div className={styles.home}>Contact</div>
         				</div>
         				<div className={styles.buttonsSet}>
@@ -87,6 +89,7 @@ const DoctorDetails = () => {
                 								<p className={styles.sheIsHighly}>Dr. Linda Walker has been practicing medicine for over 10 years.</p>
                 								<p className={styles.sheIsHighly}>She is highly experienced in providing comprehensive healthcare services for patients of all ages.</p>
               							</div>
+										<Link href="/Service/BookConsultation">
               							<div className={styles.buttonPrimaryIcon4}>
                 								<div className={styles.content}>
                   									<div className={styles.text7}>
@@ -111,6 +114,7 @@ const DoctorDetails = () => {
                   									</div>
                 								</div>
               							</div>
+										</Link>
             						</div>
             						<div className={styles.frameItem} />
             						<div className={styles.frameParent3}>
