@@ -1,0 +1,1421 @@
+.container2 {
+    position: absolute;
+    top: 0.15px;
+    left: 0px;
+    background-color: rgba(255, 255, 255, 0.1);
+    width: 1440px;
+    height: 117.85px;
+}
+.home {
+    position: relative;
+    line-height: 18px;
+}
+.vectorIcon5 {
+    position: relative;
+    width: 13.07px;
+    height: 7.23px;
+}
+.linkList {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 10px;
+}
+.sections {
+    position: absolute;
+    top: calc(50% - 9px);
+    left: calc(50% - 217.17px);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 33px;
+}
+.masterPrimaryButton1 {
+    border-radius: 30px;
+    background-color: #000;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-end;
+    padding: 18px 24px;
+}
+.userIcon1 {
+    position: relative;
+    width: 39px;
+    height: 34px;
+}
+.buttonsSet {
+    position: absolute;
+    top: 32px;
+    left: 1118px;
+    width: 212px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-end;
+    padding: 0px 0px 0px 25px;
+    box-sizing: border-box;
+    gap: 24px;
+    font-size: 16px;
+    color: #fff;
+}
+.group5Copy2 {
+    position: relative;
+    width: 34.35px;
+    height: 34.35px;
+}
+.health {
+    position: relative;
+    letter-spacing: -0.03em;
+    line-height: 25px;
+    font-weight: 800;
+    display: flex;
+    align-items: center;
+    width: 96px;
+    height: 42px;
+    flex-shrink: 0;
+}
+.chain {
+    position: relative;
+    letter-spacing: -0.03em;
+    line-height: 25px;
+    font-weight: 800;
+    color: rgba(0, 0, 0, 0.5);
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 88px;
+    height: 42px;
+    flex-shrink: 0;
+    margin-left: -10px;
+}
+.healthParent {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+}
+.group5CopyParent {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 11px;
+}
+.pro {
+    position: relative;
+    font-size: 20px;
+    letter-spacing: -0.03em;
+    line-height: 25px;
+    font-weight: 800;
+    display: inline-block;
+    width: 35px;
+    height: 42px;
+    flex-shrink: 0;
+}
+.frameParent {
+    position: absolute;
+    top: 42px;
+    left: 110px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    text-align: left;
+    font-size: 30px;
+    color: #000;
+    font-family: Nunito;
+}
+.headersV5 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1440px;
+    height: 118px;
+    font-size: 18px;
+    color: #5d5a88;
+    font-family: 'DM Sans';
+}
+.contentChild {
+    position: relative;
+    width: 589.09px;
+    height: 419.01px;
+    object-fit: cover;
+}
+.pricing {
+    position: relative;
+    letter-spacing: -0.02em;
+}
+.tag {
+    border-radius: 18px;
+    border: 1px solid #303030;
+    box-sizing: border-box;
+    height: 48px;
+    overflow: hidden;
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 16px 24px;
+    text-align: center;
+}
+.bookAFree1 {
+    align-self: stretch;
+    position: relative;
+    font-size: 60px;
+    letter-spacing: -0.03em;
+    line-height: 68px;
+    font-weight: 800;
+}
+.text10 {
+    position: relative;
+    letter-spacing: -0.02em;
+    font-weight: 800;
+}
+.solidArrowRightSm1 {
+    position: relative;
+    width: 24px;
+    height: 24px;
+}
+.content1 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 16px;
+}
+.buttonPrimaryIcon3 {
+    border-radius: 24px;
+    background-color: #303030;
+    height: 64px;
+    overflow: hidden;
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 16px 32px;
+    box-sizing: border-box;
+    font-size: 18px;
+    color: #fff;
+}
+.text9 {
+    width: 448px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 32px;
+}
+.content {
+    width: 1107px;
+    height: 312px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 55px;
+}
+.container3 {
+    border-radius: 30px;
+    background: linear-gradient(94.43deg, #d2c6e6, #e8d3e7 28.82%, #b3daf2 73.91%, #d8e8f3);
+    width: 1262px;
+    height: 471px;
+    overflow: hidden;
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 80px 100px 80px 84px;
+    box-sizing: border-box;
+}
+.frameDiv {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+.about {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-size: 20px;
+    color: #000;
+    text-align: center;
+}
+.aboutUs {
+    position: absolute;
+    top: 50px;
+    left: 0px;
+    font-weight: 500;
+}
+.privacyPolicy {
+    position: absolute;
+    top: 93px;
+    left: 0px;
+    font-weight: 500;
+}
+.termsOfService1 {
+    position: absolute;
+    top: 136px;
+    left: 0px;
+    font-weight: 500;
+}
+.aboutParent {
+    position: absolute;
+    top: 0px;
+    left: 419px;
+    width: 125px;
+    height: 159px;
+}
+.findADoctor1 {
+    position: absolute;
+    top: 50px;
+    left: 7px;
+    font-weight: 500;
+}
+.bookAnAppointment1 {
+    position: absolute;
+    top: 93px;
+    left: 7px;
+    font-weight: 500;
+}
+.telehealthServices {
+    position: absolute;
+    top: 136px;
+    left: 7px;
+    font-weight: 500;
+}
+.medicationOrdering {
+    position: absolute;
+    top: 179px;
+    left: 7px;
+    font-weight: 500;
+}
+.quickLinksParent {
+    position: absolute;
+    top: 0px;
+    left: 676px;
+    width: 172px;
+    height: 202px;
+}
+.aCuttingEdgeHealthcare1 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-weight: 500;
+    display: inline-block;
+    width: 288px;
+}
+.aCuttingEdgeHealthcareTechWrapper {
+    position: absolute;
+    top: 50px;
+    left: 0px;
+    width: 288px;
+    height: 115px;
+}
+.contact1 {
+    position: absolute;
+    top: 0px;
+    left: 0.2px;
+    font-size: 20px;
+    color: #000;
+    text-align: center;
+}
+.div {
+    position: absolute;
+    top: 50px;
+    left: 0.2px;
+    font-weight: 500;
+}
+.healthchainprogmailcom {
+    position: absolute;
+    top: 93px;
+    left: 0.2px;
+    font-weight: 500;
+}
+.youtubeIcon1 {
+    position: relative;
+    width: 25px;
+    height: 25px;
+    overflow: hidden;
+    flex-shrink: 0;
+}
+.youtubeParent {
+    position: absolute;
+    top: 136px;
+    left: 0px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+}
+.contactParent {
+    position: absolute;
+    top: 0px;
+    left: 932.8px;
+    width: 214.2px;
+    height: 161px;
+}
+.footer {
+    position: relative;
+    width: 1147px;
+    height: 202px;
+    margin-top: -53px;
+    font-size: 15px;
+    color: rgba(0, 0, 0, 0.5);
+    font-family: Poppins;
+}
+.frameGroup {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    font-size: 30px;
+    color: #000;
+}
+.copyright20231 {
+    position: relative;
+    font-size: 20px;
+    font-weight: 500;
+    font-family: Poppins;
+    color: rgba(0, 0, 0, 0.5);
+}
+.containerParent {
+    position: absolute;
+    top: 1693px;
+    left: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 49px;
+    text-align: left;
+    color: #303030;
+}
+.vectorIcon7 {
+    position: absolute;
+    height: 0.61%;
+    width: 1.88%;
+    top: 28.62%;
+    right: 54.24%;
+    bottom: 70.78%;
+    left: 43.89%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.ourCoreFeatures2 {
+    position: absolute;
+    top: 150px;
+    left: 107px;
+    font-size: 40px;
+    letter-spacing: -0.03em;
+    line-height: 68px;
+    font-weight: 800;
+}
+.ourCoreFeatures3 {
+    position: absolute;
+    top: 1106px;
+    left: 115px;
+    font-size: 40px;
+    letter-spacing: -0.03em;
+    line-height: 68px;
+    font-weight: 800;
+}
+.istockphoto1330046035612x612Icon {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 235px;
+    height: 304px;
+    object-fit: cover;
+}
+.istockphoto1330046035612x612Wrapper {
+    position: absolute;
+    margin: 0 !important;
+    top: -0.5px;
+    left: 0px;
+    border-radius: 40px;
+    width: 241px;
+    height: 304px;
+    overflow: hidden;
+    flex-shrink: 0;
+    z-index: 0;
+}
+.buttonPrimaryIcon4 {
+    align-self: stretch;
+    flex: 1;
+    border-radius: 24px;
+    background-color: #ececec;
+    overflow: hidden;
+    z-index: 0;
+}
+.vectorIcon8 {
+    position: relative;
+    width: 15px;
+    height: 15.5px;
+}
+.socialIcons2 {
+    position: relative;
+    width: 15px;
+    height: 15.5px;
+    overflow: hidden;
+    flex-shrink: 0;
+}
+.socialIcons3 {
+    position: relative;
+    width: 15px;
+    height: 14.52px;
+    overflow: hidden;
+    flex-shrink: 0;
+}
+.vectorParent {
+    margin: 0 !important;
+    position: absolute;
+    top: 7px;
+    left: 11px;
+    width: 111px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 25px;
+    z-index: 1;
+}
+.buttonPrimaryIconParent {
+    margin: 0 !important;
+    position: absolute;
+    top: 290px;
+    left: 53px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    width: 135px;
+    height: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 10px;
+    z-index: 1;
+}
+.frameParent2 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 10px;
+    position: relative;
+    gap: 10px;
+}
+.oslerSAi {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    letter-spacing: -0.02em;
+    font-weight: 800;
+    display: inline-block;
+    width: 242px;
+}
+.pricing1 {
+    position: absolute;
+    top: 51px;
+    left: 0px;
+    font-size: 16px;
+    letter-spacing: -0.02em;
+    text-align: center;
+}
+.oslerSAiDrivenTelehealthBParent {
+    position: relative;
+    width: 288px;
+    height: 73px;
+}
+.frameWrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+}
+.content2 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+.frameParent4 {
+    width: 490px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 24px;
+}
+.frameChild {
+    position: relative;
+    border-right: 1px solid #000;
+    box-sizing: border-box;
+    width: 1px;
+    height: 218px;
+}
+.basicInformation {
+    position: absolute;
+    top: 1px;
+    left: 0px;
+    line-height: 13px;
+    font-weight: 600;
+}
+.basicInformationWrapper {
+    position: relative;
+    width: 335px;
+    height: 16px;
+}
+.iconCalendarParent {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+}
+.male {
+    position: relative;
+    line-height: 22px;
+}
+.messageChild {
+    position: absolute;
+    height: 61.11%;
+    width: 77.78%;
+    top: 19.44%;
+    right: 11.11%;
+    bottom: 19.44%;
+    left: 11.11%;
+    border-radius: 2px;
+    border: 2px solid #778293;
+    box-sizing: border-box;
+}
+.messageItem {
+    position: absolute;
+    height: 25.88%;
+    width: 71.64%;
+    top: 32.53%;
+    right: 14.18%;
+    bottom: 41.59%;
+    left: 14.18%;
+    border-radius: 2px;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.message {
+    position: relative;
+    width: 18px;
+    height: 18px;
+}
+.kualaLumpurMalaysia1 {
+    position: relative;
+    line-height: 22px;
+    display: inline-block;
+    width: 313px;
+    flex-shrink: 0;
+}
+.iconLocationParent {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 8px;
+    color: #3f8efc;
+}
+.frameParent6 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 12px;
+    font-size: 12px;
+    color: #344154;
+}
+.frameParent5 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 16px;
+    font-size: 16px;
+    color: #101828;
+    font-family: Poppins;
+}
+.frameParent3 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 24px;
+}
+.frameParent1 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 34px;
+}
+.logoPillow4 {
+    position: absolute;
+    height: 38.89%;
+    width: 27.78%;
+    top: 36.11%;
+    right: 30.56%;
+    bottom: 25%;
+    left: 41.67%;
+    border-radius: 9px;
+    background-color: #e3e4e3;
+    transform:  rotate(90deg);
+    transform-origin: 0 0;
+}
+.logoPillow5 {
+    position: absolute;
+    height: 38.89%;
+    top: 36.11%;
+    right: -18px;
+    bottom: 25%;
+    border-radius: 9px;
+    background-color: #e3e4e3;
+    width: 20px;
+    transform:  rotate(90deg);
+    transform-origin: 0 0;
+}
+.logoPillow6 {
+    position: absolute;
+    bottom: 2px;
+    left: calc(50% - 10px);
+    border-radius: 9px;
+    background-color: #e3e4e3;
+    width: 20px;
+    height: 28px;
+}
+.logoPillow7 {
+    position: absolute;
+    top: 2px;
+    left: calc(50% - 10px);
+    border-radius: 9px;
+    background-color: #e3e4e3;
+    width: 20px;
+    height: 28px;
+}
+.logomark {
+    position: absolute;
+    top: calc(50% - 35.5px);
+    left: calc(50% - 36px);
+    width: 72px;
+    height: 72px;
+}
+.frame1 {
+    align-self: stretch;
+    flex: 1;
+    position: relative;
+    border-radius: 40px;
+    background-color: #fff;
+    border: 1px solid #c5c8c6;
+    overflow: hidden;
+}
+.jun {
+    position: relative;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    font-weight: 900;
+}
+.oslerPillow1 {
+    position: relative;
+    border-radius: 1.5px;
+    background-color: #c5c8c6;
+    width: 4px;
+    height: 4px;
+    overflow: hidden;
+    flex-shrink: 0;
+}
+.frame3 {
+    align-self: stretch;
+    display: none;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 12px;
+    text-align: left;
+    color: #647067;
+}
+.oslerSAi1 {
+    align-self: stretch;
+    position: relative;
+    font-size: 20px;
+    letter-spacing: -0.02em;
+    font-weight: 800;
+}
+.tag1 {
+    border-radius: 15px;
+    border: 1px solid #647067;
+    box-sizing: border-box;
+    height: 40px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 10px 16px;
+}
+.pricing3 {
+    position: relative;
+    letter-spacing: -0.01em;
+}
+.tag2 {
+    border-radius: 12px;
+    border: 1px solid #647067;
+    box-sizing: border-box;
+    height: 40px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 8px 12px;
+    font-size: 14px;
+}
+.frame4 {
+    display: none;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 8px;
+    font-size: 16px;
+}
+.frame2 {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 16px;
+}
+.text12 {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-end;
+}
+.content3 {
+    align-self: stretch;
+    flex: 1;
+    display: none;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 24px;
+    text-align: center;
+    font-size: 12px;
+}
+.frame {
+    position: absolute;
+    top: 245px;
+    left: 115px;
+    border-radius: 48px;
+    background-color: #f5f5f5;
+    width: 1195px;
+    height: 397px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 0px 16px;
+    box-sizing: border-box;
+    gap: 24px;
+    text-align: left;
+    font-size: 30px;
+}
+.groupChild {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 50%;
+    background-color: #ececff;
+    width: 73.91px;
+    height: 73.91px;
+}
+.calendarWithChecklistDateSIcon2 {
+    position: absolute;
+    top: 13.86px;
+    left: 15.01px;
+    width: 43.63px;
+    height: 46.19px;
+    object-fit: cover;
+}
+.ellipseParent {
+    position: relative;
+    width: 73.91px;
+    height: 73.91px;
+}
+.upcomingAppointments {
+    position: relative;
+    line-height: 140%;
+}
+.groupParent {
+    align-self: stretch;
+    flex: 1;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 13.86px;
+    font-size: 20.79px;
+    font-family: Nunito;
+}
+.istockphoto1330046035612x612Icon1 {
+    position: relative;
+    border-radius: 32.5px;
+    width: 71px;
+    height: 71px;
+    object-fit: cover;
+}
+.today {
+    position: relative;
+    line-height: 140%;
+    color: #ff0000;
+}
+.todayParent {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 6.03px;
+}
+.istockphoto1330046035612x612Parent {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 18.08px;
+    z-index: 0;
+}
+.frameItem {
+    position: absolute;
+    margin: 0 !important;
+    top: 0px;
+    left: 0px;
+    border-radius: 150.63px 0px 0px 18.08px;
+    background-color: #ffdaa7;
+    width: 12.05px;
+    height: 114.48px;
+    z-index: 1;
+}
+.frameParent9 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 6.03px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 18.075214385986328px 18.075214385986328px 18.075214385986328px 30.125350952148438px;
+    gap: 156.65px;
+}
+.frameWrapper2 {
+    align-self: stretch;
+    position: relative;
+    border-radius: 18.08px;
+    background-color: #fff;
+    box-shadow: 0px 4.389221668243408px 13.17px rgba(0, 0, 0, 0.1);
+    border: 1.5px solid #e3e3e3;
+    box-sizing: border-box;
+    height: 114px;
+    overflow: hidden;
+    flex-shrink: 0;
+}
+.image13Icon {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 80.4px;
+    height: 84.78px;
+    object-fit: cover;
+}
+.image13Wrapper {
+    position: relative;
+    border-radius: 40px;
+    width: 80px;
+    height: 75px;
+    overflow: hidden;
+    flex-shrink: 0;
+}
+.thNov20231 {
+    position: relative;
+    line-height: 140%;
+    color: #7f7f7f;
+}
+.frameInner {
+    position: absolute;
+    margin: 0 !important;
+    top: 0px;
+    left: 0px;
+    border-radius: 150.63px 0px 0px 18.08px;
+    background-color: #b6daf2;
+    width: 12.05px;
+    height: 114.48px;
+    z-index: 1;
+}
+.frameParent8 {
+    border-radius: 27.72px;
+    background-color: #f5f5f5;
+    box-shadow: 0px 4.619444370269775px 13.86px rgba(0, 0, 0, 0.04);
+    width: 404px;
+    height: 363px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 13.858333587646484px 18.4777774810791px;
+    box-sizing: border-box;
+    gap: 13.86px;
+}
+.groupParent1 {
+    align-self: stretch;
+    height: 76px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 13.86px;
+}
+.abstractBlurDefocusedPharmaIcon {
+    position: relative;
+    border-radius: 20px;
+    width: 79px;
+    height: 78px;
+    object-fit: cover;
+}
+.yomaPharmacyParent {
+    height: 86px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 6px;
+}
+.qrCodeForMobileEnglishWikIcon {
+    position: relative;
+    width: 86px;
+    height: 86px;
+    overflow: hidden;
+    flex-shrink: 0;
+}
+.frameParent14 {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 6.03px;
+}
+.frameWrapper4 {
+    align-self: stretch;
+    position: relative;
+    border-radius: 18.08px;
+    background-color: #fff;
+    box-shadow: 0px 4.389221668243408px 13.17px rgba(0, 0, 0, 0.1);
+    border: 1.5px solid #e3e3e3;
+    box-sizing: border-box;
+    height: 122px;
+    overflow: hidden;
+    flex-shrink: 0;
+    font-size: 16px;
+    font-family: Manrope;
+}
+.frameParent12 {
+    border-radius: 27.72px;
+    background-color: #f5f5f5;
+    box-shadow: 0px 4.619444370269775px 13.86px rgba(0, 0, 0, 0.04);
+    width: 404px;
+    height: 363px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 13.858333587646484px 18.4777774810791px;
+    box-sizing: border-box;
+    gap: 13.86px;
+    font-size: 20.79px;
+    font-family: Nunito;
+}
+.frameParent7 {
+    position: absolute;
+    top: 668px;
+    left: 115px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 35px;
+    text-align: left;
+    color: #252539;
+    font-family: Manrope;
+}
+.healthOverview {
+    position: relative;
+}
+.bloodSugarChild {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 12px;
+    background-color: #fff;
+    box-shadow: 0px 1px 50px rgba(0, 0, 0, 0.08);
+    border: 1px solid #e8e7e7;
+    box-sizing: border-box;
+    width: 213px;
+    height: 262px;
+}
+.steps {
+    position: absolute;
+    top: 39px;
+    left: 94px;
+    font-weight: 600;
+}
+.steps1 {
+    position: absolute;
+    top: 111.14px;
+    left: 100px;
+    color: #818181;
+}
+.div2 {
+    position: absolute;
+    top: 97px;
+    left: 20px;
+    font-size: 32px;
+    color: #272927;
+}
+.bloodSugarItem {
+    position: absolute;
+    top: 178.5px;
+    left: 19.5px;
+    width: 174px;
+    height: 73px;
+}
+.bloodSugarInner {
+    position: absolute;
+    top: 19.93px;
+    left: 19.84px;
+    width: 58px;
+    height: 59px;
+}
+.normal {
+    position: relative;
+    font-weight: 600;
+}
+.normalWrapper {
+    position: absolute;
+    top: 146px;
+    left: 20px;
+    border-radius: 4px;
+    background-color: #74abff;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 4px 8px;
+    font-size: 12px;
+}
+.bloodSugar {
+    position: relative;
+    width: 213px;
+    height: 262px;
+}
+.mgDl {
+    position: absolute;
+    top: 109px;
+    left: 65px;
+    color: #818181;
+}
+.normalContainer {
+    position: absolute;
+    top: 146px;
+    left: 20px;
+    border-radius: 4px;
+    background-color: #f8debd;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 4px 8px;
+    font-size: 12px;
+}
+.bloodPressure1 {
+    position: absolute;
+    top: 29px;
+    left: 94px;
+    font-weight: 600;
+    display: inline-block;
+    width: 109px;
+}
+.b {
+    position: absolute;
+    top: 109px;
+    left: 84px;
+    color: #818181;
+}
+.mmhg {
+    position: absolute;
+    top: 112px;
+    left: 118px;
+    font-size: 12px;
+    color: #818181;
+}
+.bloodPressureItem {
+    position: absolute;
+    top: 177.5px;
+    left: 19.71px;
+    width: 173.68px;
+    height: 72.34px;
+}
+.groupInner {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 12px;
+    background-color: #d0fbff;
+    width: 58px;
+    height: 58px;
+}
+.nounBloodPressure1098911 {
+    position: absolute;
+    top: 11px;
+    left: 11px;
+    width: 36px;
+    height: 36px;
+    overflow: hidden;
+}
+.rectangleParent {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    width: 58px;
+    height: 58px;
+}
+.normalFrame {
+    position: absolute;
+    top: 146px;
+    left: 20px;
+    border-radius: 4px;
+    background-color: #d0fbff;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 4px 8px;
+    font-size: 12px;
+}
+.groupChild1 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 12px;
+    background-color: #fbf0f3;
+    width: 58px;
+    height: 58px;
+}
+.groupIcon2 {
+    position: absolute;
+    height: 47.73%;
+    width: 51.72%;
+    top: 25.86%;
+    right: 24.14%;
+    bottom: 26.41%;
+    left: 24.14%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.normalWrapper1 {
+    position: absolute;
+    top: 146px;
+    left: 20px;
+    border-radius: 4px;
+    background-color: #fbf0f3;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 4px 8px;
+    font-size: 12px;
+}
+.heartRateItem {
+    position: absolute;
+    top: 178.54px;
+    left: 19.76px;
+    width: 173.44px;
+    height: 70.96px;
+}
+.bloodSugarParent {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 14px;
+}
+.frameWrapper5 {
+    width: 688px;
+    height: 294px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    font-size: 16px;
+    color: #000;
+    font-family: Mulish;
+}
+.healthOverviewParent {
+    position: absolute;
+    top: 1197px;
+    left: 369px;
+    border-radius: 27.72px;
+    background-color: #000;
+    box-shadow: 0px 4.619444370269775px 13.86px rgba(0, 0, 0, 0.04);
+    width: 984px;
+    height: 421px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 40px 50px;
+    box-sizing: border-box;
+    gap: 13.86px;
+    text-align: left;
+    font-size: 28px;
+    color: #fff;
+}
+.askPermisoChild {
+    position: absolute;
+    top: 6.55px;
+    left: 2.4px;
+    width: 232.2px;
+    height: 360.36px;
+}
+.dasplaycircle1 {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    border-radius: 115px;
+    background-color: #000;
+}
+.scrollbar {
+    position: absolute;
+    top: 79px;
+    left: 12px;
+    width: 213px;
+    height: 213px;
+}
+.fmdBadIcon1 {
+    position: absolute;
+    top: 116px;
+    left: 102px;
+    width: 33px;
+    height: 33px;
+}
+.askPermisoItem {
+    position: absolute;
+    top: 81.94px;
+    left: 101px;
+    width: 35.38px;
+    height: 13.24px;
+}
+.permitirAHealthcheck {
+    position: absolute;
+    top: 159px;
+    left: 17px;
+    font-size: 12px;
+    line-height: 15px;
+    font-family: Poppins;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 204px;
+}
+.chipChild {
+    position: absolute;
+    width: 100%;
+    top: calc(50% - 16px);
+    right: 0px;
+    left: 0px;
+    border-radius: 48px;
+    background-color: #202124;
+    height: 32px;
+}
+.smallChip {
+    position: absolute;
+    width: calc(100% - 52px);
+    top: calc(50% - 9px);
+    left: 38px;
+    line-height: 18px;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.iconscheck24px1 {
+    position: absolute;
+    top: calc(50% - 10px);
+    left: 12px;
+    width: 20px;
+    height: 20px;
+}
+.chip {
+    position: absolute;
+    top: 199px;
+    left: 55px;
+    width: 124px;
+    height: 32px;
+}
+.chip1 {
+    position: absolute;
+    top: 238px;
+    left: 55px;
+    width: 124px;
+    height: 32px;
+}
+.title1 {
+    position: absolute;
+    top: 92px;
+    left: 33px;
+    width: 172px;
+    height: 48px;
+    display: none;
+}
+.askPermiso {
+    position: absolute;
+    top: 1217px;
+    left: 86px;
+    box-shadow: 0px 5px 30px rgba(0, 0, 0, 0.25);
+    width: 237px;
+    height: 371px;
+    font-size: 14px;
+    color: #fff;
+    font-family: Roboto;
+}
+.marketplace {
+    position: relative;
+    background-color: #fff;
+    width: 100%;
+    height: 2563px;
+    overflow: hidden;
+    text-align: center;
+    font-size: 16px;
+    color: #2f3c33;
+    font-family: Nunito;
+}
+
